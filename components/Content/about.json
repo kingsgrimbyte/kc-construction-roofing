@@ -1,0 +1,29 @@
+{
+  "metaTitle": "Roofing Contractor in [location]",
+  "metaDescription": "Trusted roofing experts serving our community with quality workmanship, fair pricing, and local care. Call for roof repairs & inspections [phone]",
+  "bannerQuote": "",
+  "bannerImage": "https://ik.imagekit.io/z6skgnupx/kcconstructionroofing_com/Roofing_Services_about_bannerImage_r8HwTB2Us.jpg",
+  "h1Banner": "Roofing Contractor in [location]",
+  "p1Banner": "Trusted roofing experts serving our community with quality workmanship, fair pricing, and local care. Call for roof repairs & inspections [phone]",
+  "p2": "KC Construction Roofing is a family-owned roofing company built on honest workmanship, clear communication, and a practical approach to every roof we touch. Founded by experienced roofers who grew up working on houses and commercial sites, we focus on durable materials, transparent estimates, and service that stands behind our work. Our team trains on industry-leading products, follows strict safety and cleanup standards, and is committed to protecting your property while delivering long-lasting results in [location].",
+  "h2Image": "https://ik.imagekit.io/z6skgnupx/kcconstructionroofing_com/Roofing_Services_about_h2Image_rWIAMMRAA.jpg",
+  "missionSection": [
+    {
+      "title": "Our Mission",
+      "description": "To provide homeowners and businesses with dependable roofing solutions—timely repairs, storm response, and full replacements—backed by clear estimates, quality materials, and craftsmanship you can trust."
+    },
+    {
+      "title": "Our Vision",
+      "description": "To be the go-to local roofing partner known for honesty, safety, and a community-first approach—making roofs stronger and neighborhoods safer through reliable service and ongoing training."
+    },
+    {
+      "title": "Our Values",
+      "description": "Experience, pride, and respect guide every job: decades of combined roofing experience, licensed and insured crews, manufacturer-certified installations, straightforward pricing, and a commitment to treat your home like our own."
+    }
+  ],
+  "areaweserveSection": {
+    "description": "We proudly provide full-service roofing across [location], serving residential and commercial customers with roof repair, replacement, storm restoration, and preventative maintenance.",
+    "linkText": "Check our Roofing Service locations here.",
+    "link": "/locations"
+  }
+}
