@@ -94,7 +94,7 @@
     "neighbourhoods": "Yorkshire | Edmondson | Mount Holly | Otterbein | Westfield | Midtown | Cherry Hill | Woodbourne Heights | Harlem Park | Roland Park | Patterson Park | Hunting Ridge | Locust Point | Pimlico",
     "zipCodes": "20606",
     "address": "21388 ABELL RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "aberdeen-md": {
     "name": "Aberdeen",
@@ -191,7 +191,7 @@
     "neighbourhoods": "Aldino | Paradise Heights | Swan Meadows | Pheasant Ridge | Hillsdale | Hollywoods | Chapel Heights | Perryman | Hickory Hills | Forest Greens | Aberdeen Hills | Windsong | Holly Woods | Krouseland",
     "zipCodes": "21001",
     "address": "30 W BEL AIR AVE, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "adamstown-md": {
     "name": "Adamstown",
@@ -288,7 +288,7 @@
     "neighbourhoods": "Green Hill | Windsor Knolls | Buckeystown | Glade Village | Adamstown Commons | Holly Hills | Windsor Estates | Manor Wood Estates | Green Valley | Green Valley North",
     "zipCodes": "21710",
     "address": "5537 MOUNTVILLE RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "accident-md": {
     "name": "Accident",
@@ -385,7 +385,7 @@
     "neighbourhoods": "Oakland | Altamont | Bane | Crellin | Gortner | Red House | Thayerville | McComas Beach | Mountain Lake Park | Sang Run",
     "zipCodes": "21520",
     "address": "103 SOUTH ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "allen-md": {
     "name": "Allen",
@@ -482,7 +482,7 @@
     "neighbourhoods": "Downtown | East End | West End | Southside | Northside | Central Park | Maplewood | Hillcrest | Pinehurst | Riverside | Oakwood | Fairview | Sunnyside | Springdale",
     "zipCodes": "21810",
     "address": "3519 ALLEN RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "accokeek-md": {
     "name": "Accokeek",
@@ -579,7 +579,7 @@
     "neighbourhoods": "Clagett Landing | Farmington Woods | Horizon Hills | Simmons Acres | Summerwood | White Hall Forest",
     "zipCodes": "20607",
     "address": "16405 LIVINGSTON RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "aberdeen-proving-ground-md": {
     "name": "Aberdeen Proving Ground",
@@ -676,7 +676,7 @@
     "neighbourhoods": "Aberdeen | Edgewood | Bel Air South | Belcamp | Havre de Grace | Churchville | Joppatowne | Riverside | Perryman | Abingdon | Fallston",
     "zipCodes": "21005",
     "address": "4510 BOOTHBY HILL AVE, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "abingdon-md": {
     "name": "Abingdon",
@@ -773,7 +773,7 @@
     "neighbourhoods": "Box Hill | Constant Friendship | Cokesbury Village | Laurel Woods | Monmouth Meadows | Harford Town | Long Bar Harbor | The Cedars | Singer Woods | Winters Run | Crisfield Crossing | St Clair | Woodland Run | Abingdon Reserve",
     "zipCodes": "21009",
     "address": "2945 EMMORTON RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "annapolis-junction-md": {
     "name": "Annapolis Junction",
@@ -870,7 +870,7 @@
     "neighbourhoods": "Highland | Annapolis Rock | Maple Ridge | Claremont | Guilford | Snowden Ridge | Paddock Pointe",
     "zipCodes": "20701",
     "address": "10820 GUILFORD RD STE 212, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "ashton-md": {
     "name": "Ashton",
@@ -967,7 +967,7 @@
     "neighbourhoods": "Ashton Preserve | Ednor | Brighton | Hampshire Greens | Olney Mill | Sandy Spring | Ashton Meadows | Ashton Village | Norwood | Trotters Glen.",
     "zipCodes": "20861",
     "address": "19 OLNEY SANDY SPRING RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "avenue-md": {
     "name": "Avenue",
@@ -1064,7 +1064,7 @@
     "neighbourhoods": "Sandy Point | Longview Beach | Park Hall | Saint Clements Shores | Avenue | Coltons Point | Clements | Oakley | Compton | Abell",
     "zipCodes": "20609",
     "address": "21535 COLTON POINT RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "annapolis-md": {
     "name": "Annapolis",
@@ -1161,7 +1161,7 @@
     "neighbourhoods": "West Annapolis | Homewood | Eastport | Admiral Heights | Murray Hill | Bay Ridge | Historic Annapolis | Germantown | Sherwood Forest | Hillsmere | Cape St. Claire | Robinwood | Wardour | Truxton Heights",
     "zipCodes": "21401 | 21402 | 21403",
     "address": "1 WILSON RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "arnold-md": {
     "name": "Arnold",
@@ -1258,7 +1258,7 @@
     "neighbourhoods": "Bay Hills | Belvedere Beach/Harmony | Cape St. Claire | College Parkway | Dividing Creek | Hidden Harbor | Joyce Lane | Longview | Mago Vista | Rugby Hall | Shore Acres | Stonington | Twin Harbors | Ulmstead Estates",
     "zipCodes": "21012",
     "address": "1521 RITCHIE HWY STE 100, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "baldwin-md": {
     "name": "Baldwin",
@@ -1355,7 +1355,7 @@
     "neighbourhoods": "Barclay | Bolton Hill | Butcher's Hill | Canton | Charles Village | Federal Hill | Fells Point | Hampden | Inner Harbor | Little Italy | Locust Point | Mount Vernon | Otterbein | Patterson Park | Upper Fells Point",
     "zipCodes": "21013",
     "address": "13516 LONG GREEN PIKE, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "barclay-md": {
     "name": "Barclay",
@@ -1452,7 +1452,7 @@
     "neighbourhoods": "Cameron Village | Harwood | Original Northwood | Wilson Park | Waverly | Better Waverly | Oakenshawe | Abell | Charles Village | Ednor Gardens-Lakeside | Harwood Park | Oakenshawe Historic District | Remington | Winston-Govans",
     "zipCodes": "21607",
     "address": "1325 GOLDSBORO RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "baltimore-md": {
     "name": "Baltimore",
@@ -1549,7 +1549,7 @@
     "neighbourhoods": "Fells Point | Canton | Hampden | Federal Hill | Mount Vernon | Roland Park | Highlandtown | Locust Point | Charles Village | Pigtown | Butchers Hill | Reservoir Hill | Remington | Little Italy",
     "zipCodes": "21202 | 21206 | 21209 | 21210 | 21211 | 21212 | 21213 | 21214 | 21215 | 21216 | 21217 | 21218 | 21223 | 21224 | 21229 | 21230 | 21231 | 21233 | 21239 | 21281",
     "address": "900 E FAYETTE ST RM 118, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "barstow-md": {
     "name": "Barstow",
@@ -1646,7 +1646,7 @@
     "neighbourhoods": "Piney Point | Tall Timbers | Valley Lee | Drayden | Ridge | Scotland | Great Mills | Lexington Park | California | Hollywood",
     "zipCodes": "20610",
     "address": "2485 HALLOWING POINT RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "barnesville-md": {
     "name": "Barnesville",
@@ -1743,7 +1743,7 @@
     "neighbourhoods": "Beallsville | Poolesville | Dickerson | Clarksburg | Boyds | Germantown | Darnestown",
     "zipCodes": "20838",
     "address": "22110 BEALLSVILLE RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "belcamp-md": {
     "name": "Belcamp",
@@ -1840,7 +1840,7 @@
     "neighbourhoods": "Riverside | Belcamp | Riverside Business Park | Constant Friendship | Riverside Pheasant Run | Box Hill North | Riverside Foster Branch | Riverside Foster Estates | Box Hill South | Box Hill Square",
     "zipCodes": "21017",
     "address": "1321 RIVERSIDE PKWY STE E3, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "bel-air-md": {
     "name": "Bel Air",
@@ -1937,7 +1937,7 @@
     "neighbourhoods": "Greenridge | Shamrock | Vale | Greenbrier | Brentwood | Tudor Manor | Amyclae Estates | Irwins Choice | Major's Choice | Green Valley | Green Haven | Majors Choice | Taylor Ridge",
     "zipCodes": "21014",
     "address": "202 BLUM CT, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "barton-md": {
     "name": "Barton",
@@ -2034,7 +2034,7 @@
     "neighbourhoods": "Hillcrest | Vale Summit | Avilton | Finzel | Moscow | Pine Hill | Pine Swamp | Pleasant Valley | Franklin | Lyman Meadow | McAndrews Hill | New Germany | Red Rock | Klondike | Hazen.",
     "zipCodes": "21521",
     "address": "19112 S RAILROAD ST SW, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "benedict-md": {
     "name": "Benedict",
@@ -2131,7 +2131,7 @@
     "neighbourhoods": "Piney Point | Avenue | Bushwood | Chaptico | Colton Point | Compton | Dameron | Helen | Loveville | Maddox | Morganza | Oakville | Rock Point | Saint Clements Shores | Tall Timbers",
     "zipCodes": "20612",
     "address": "7240 BENEDICT AVE, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "beltsville-md": {
     "name": "Beltsville",
@@ -2228,7 +2228,7 @@
     "neighbourhoods": "Franklin Knolls | Calverton | Montgomery Estates | Holly Tree Estates | Beltsville Heights | Longwood | Home Acres | Chestnut Hills | Scotts Crossing | Fox Chase | Bonnie Brae | Calverton Heights | Vansville",
     "zipCodes": "20705",
     "address": "10901 RHODE ISLAND AVE, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "berlin-md": {
     "name": "Berlin",
@@ -2325,7 +2325,7 @@
     "neighbourhoods": "South Point | Ocean Pines | Berlin Heights | Glen Riddle | Showell | Flower St | Sinepuxent | Bishopville | Libertytown.",
     "zipCodes": "21811",
     "address": "11115 LAKE VIEW LN, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "benson-md": {
     "name": "Benson",
@@ -2422,7 +2422,7 @@
     "neighbourhoods": "Bentley Springs | Glencoe | Upperco | Hereford | Freeland",
     "zipCodes": "21018",
     "address": "108 CONNOLLY RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "bishopville-md": {
     "name": "Bishopville",
@@ -2519,7 +2519,7 @@
     "neighbourhoods": "Piney Island | Piney Neck | Sinepuxent | Taylorville | Showell | Stockton | Newark | Whaleyville | Boxiron | White Horse Park",
     "zipCodes": "21813",
     "address": "10656 BISHOPVILLE RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "bethlehem-md": {
     "name": "Bethlehem",
@@ -2616,7 +2616,7 @@
     "neighbourhoods": "West Bethlehem | East Bethlehem | South Bethlehem | North Bethlehem | Oak Street | Dogwood Circle | Main Street | Maple Avenue | Pine Drive | Cedar Lane",
     "zipCodes": "21609",
     "address": "22015 DOVER BRIDGE RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "bethesda-md": {
     "name": "Bethesda",
@@ -2713,7 +2713,7 @@
     "neighbourhoods": "Woodmont Triangle | Battery Park | Glenbrook Village | Greenwich Forest | Edgemoor | Wyngate | Alta Vista | Bannockburn | Ayrlawn | Bethesda Row | Westmoreland Hills | Drummond | Columbia Forest | Kenwood Forest",
     "zipCodes": "20817",
     "address": "10421 MOTOR CITY DR, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "bivalve-md": {
     "name": "Bivalve",
@@ -2810,7 +2810,7 @@
     "neighbourhoods": "Bay Ridge | Oriole | Waterview | Shelltown | Quantico | Spring Hill | Cedar Hill | Tyaskin | Nanticoke | Wetipquin | Athol | Tindall Island | Jesterville | Wetipquin Landing",
     "zipCodes": "21814",
     "address": "20972 NANTICOKE RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "bloomington-md": {
     "name": "Bloomington",
@@ -2907,7 +2907,7 @@
     "neighbourhoods": "Brighton | Brooklyn | Carrollton Ridge | Franklin Square | Hollins Market | Mount Clare | Mount Winans | New Southwest/Mount Clare | Pigtown | Poppleton | Westport",
     "zipCodes": "21523",
     "address": "35 N HAMILL AVE, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "boonsboro-md": {
     "name": "Boonsboro",
@@ -3004,7 +3004,7 @@
     "neighbourhoods": "Clover Hill | Greenbrier | Boonsboro Heights | Boonsboro Manor | Twin Hills | Hillcrest | Boonsboro Village | Deerwood | Orchard Hills | Highland Manor | Wellington Trace | Stonecrest | Maplecrest | Laurel Ridge.",
     "zipCodes": "21713",
     "address": "6822 OSTERTAG PASS, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "big-pool-md": {
     "name": "Big Pool",
@@ -3101,7 +3101,7 @@
     "neighbourhoods": "Pleasant Valley | Big Pool | Clear Spring | Indian Springs | Edgemont | Big Spring | Ernstville | Millstone | Rockdale | Yarrowsburg.",
     "zipCodes": "21711",
     "address": "11304 HOMESTEAD DR, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "betterton-md": {
     "name": "Betterton",
@@ -3198,7 +3198,7 @@
     "neighbourhoods": "Bay View | Betterton Beach | Betterton Heights | Chestertown | Fairgale | Galena | Kennedyville | Lynch | Massey | Millington | Still Pond | Worton",
     "zipCodes": "21610",
     "address": "3 3RD AVE, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "boyds-md": {
     "name": "Boyds",
@@ -3295,7 +3295,7 @@
     "neighbourhoods": "Kings Crossing | Hoyles Mill Village | Jamisons Farm | Milestone | Summerfield Crossing | Clarksburg | Darby | Seneca Overlook | Fernshire Farms | Riffle Ford Road | Cedar Ridge | Foreston Estates | Hallowell | Little Seneca Creek",
     "zipCodes": "20841",
     "address": "15300 BARNESVILLE RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "brandywine-md": {
     "name": "Brandywine",
@@ -3392,7 +3392,7 @@
     "neighbourhoods": "North Keys | Brandywine Village | Eagle Harbor | Cedarville | Malcolm | Baden | Clinton Acres | Rosaryville | St. Charles | Brandywine Forest | Danville | Aquasco | Hollaway Estates | Accokeek Landing",
     "zipCodes": "20613",
     "address": "14109 BRANDYWINE RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "brookeville-md": {
     "name": "Brookeville",
@@ -3489,7 +3489,7 @@
     "neighbourhoods": "Sandy Spring | Olney | Ashton | Sunshine | Glenmont | Norwood | Norbeck | Etchison | Ednor | Brighton | Good Hope | Parker Meadows | Cedar Grove | Greenbridge",
     "zipCodes": "20833",
     "address": "22311 GEORGIA AVE, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "bozman-md": {
     "name": "Bozman",
@@ -3586,7 +3586,7 @@
     "neighbourhoods": "Easton | Oxford | St Michaels | Bellevue | Royal Oak | Sherwood | Neavitt | Newcomb | Wittman | Claiborne | Bozman",
     "zipCodes": "21612",
     "address": "7983 QUAKER NECK RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "braddock-heights-md": {
     "name": "Braddock Heights",
@@ -3683,7 +3683,7 @@
     "neighbourhoods": "Woodland Way | Braddock Estates | Braddock Heights | Deerfield | Skyview | Ridgefield | Catoctin Heights | Brookridge | Braddock Mountain Estates | Braddock Village",
     "zipCodes": "21714",
     "address": "4707 SCHLEY AVE STE A, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "brooklandville-md": {
     "name": "Brooklandville",
@@ -3780,7 +3780,7 @@
     "neighbourhoods": "Valley Road | Ivy Hill | Falls Road | Seminary Avenue | Shawan Road | Brooklandville Historic District",
     "zipCodes": "21022",
     "address": "10807 FALLS RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "bowie-md": {
     "name": "Bowie",
@@ -3877,7 +3877,7 @@
     "neighbourhoods": "Belair | Whitehall | Northridge | Glen Allen | Somerset | Foxhill | Tulip Grove | Highbridge | Collington | Mitchellville | Buckingham | Glenn Dale | Pointer Ridge | Bowie Town Center",
     "zipCodes": "20715 | 20716 | 20720",
     "address": "6710 LAUREL BOWIE RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "brentwood-md": {
     "name": "Brentwood",
@@ -3974,7 +3974,7 @@
     "neighbourhoods": "North Brentwood | West Brentwood | Brentwood Village | Brentwood Park | Brentwood Manor | Brentwood Heights | Brentwood Terrace | Brentwood Forest | Brentwood Hills | Brentwood Meadows",
     "zipCodes": "20722",
     "address": "4314 41ST ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "brooklyn-md": {
     "name": "Brooklyn",
@@ -4071,7 +4071,7 @@
     "neighbourhoods": "Brooklyn Park | Arundel Village | Brooklyn Heights | Roland Terrace | Cherry Hill | Shipley Hill | Pumphrey | Brooklyn Manor | Fairview | Stony Run | Arundel Gardens | Harbor Valley | West Brooklyn | Brooklyn Springs",
     "zipCodes": "21225",
     "address": "1500 CHERRY HILL RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "broomes-island-md": {
     "name": "Broomes Island",
@@ -4168,7 +4168,7 @@
     "neighbourhoods": "Holland Point | Blakefield | Lyon Acres | Deacon Woods | Calvert Beach | Island Creek | Mill Creek | Cove of Calvert | Patuxent Palisades | Broomes Island Village | Grays Creek | Island Creek Woods | Lower Marlboro | Drum Point",
     "zipCodes": "20615",
     "address": "8320 BROOMES ISLAND RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "buckeystown-md": {
     "name": "Buckeystown",
@@ -4265,7 +4265,7 @@
     "neighbourhoods": "Buckeystown Village | Spring Ridge | Monocacy Village | Kingsbrooke | Clover Hill | Holly Hills | Cannon Bluff | Tuscarora Hills | Mill Island | Summerfield | Wormans Mill | Waterside | Whittier | Dearbought",
     "zipCodes": "21717",
     "address": "4001 BUCKEYSTOWN PIKE, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "brunswick-md": {
     "name": "Brunswick",
@@ -4362,7 +4362,7 @@
     "neighbourhoods": "Knoxville | Spring Valley | Rosemont | Maplecrest | Brunswick Crossing | Galyn Manor | Carrollton | Valley View Estates | Jefferson Place | Potomac View | Brunswick Heights | Fairview | Greenfield | Brunswick Station",
     "zipCodes": "21716",
     "address": "315 BRUNSWICK ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "bryantown-md": {
     "name": "Bryantown",
@@ -4459,7 +4459,7 @@
     "neighbourhoods": "Bryantown Village | Brighton Estates | Brandywine Crossing | Woodville Acres | Cedarville | Lynch Point | Ashford Oaks | Heidelwood | Greenwood Manor | Friendship Estates | Fox Fire Forest | Hollybrook Farm | Suburban Woods | Manning Acres",
     "zipCodes": "20617",
     "address": "6425 LEONARDTOWN RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "bryans-road-md": {
     "name": "Bryans Road",
@@ -4556,7 +4556,7 @@
     "neighbourhoods": "Eagle Harbor | Pinefield | Marbella | Bannister | White Plains | Bryans Road | Bennsville | Ripley | Pomonkey",
     "zipCodes": "20616",
     "address": "6960 INDIAN HEAD HWY, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "burtonsville-md": {
     "name": "Burtonsville",
@@ -4653,7 +4653,7 @@
     "neighbourhoods": "Valley Stream | Silver Spring | Fairland | Greencastle | Colesville | Spencerville | Cloverly | White Oak | Calverton",
     "zipCodes": "20866",
     "address": "15210 DINO DR, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "bushwood-md": {
     "name": "Bushwood",
@@ -4750,7 +4750,7 @@
     "neighbourhoods": "Pomonkey | Coles | Morganza | Chaptico | Clements | Coltons Point | Avenue | Abell | Loveville | Oakley",
     "zipCodes": "20618",
     "address": "22840 BUSHWOOD RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "burkittsville-md": {
     "name": "Burkittsville",
@@ -4847,7 +4847,7 @@
     "neighbourhoods": "Hammonton Hill | High Knob | South Mountain | Wolfsville | Burkittsville Village | Brownsville | Manor Woods | Highland | Gapland | Park Mills",
     "zipCodes": "21718",
     "address": "8 E MAIN ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "butler-md": {
     "name": "Butler",
@@ -4944,7 +4944,7 @@
     "neighbourhoods": "Silver Spring | Roland Park | Towson | Lutherville | Timonium | Cockeysville | Hunt Valley | Owings Mills | Pikesville | Ruxton",
     "zipCodes": "21023",
     "address": "14921 FALLS RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "california-md": {
     "name": "California",
@@ -5041,7 +5041,7 @@
     "neighbourhoods": "Wildewood | San Souci | Evergreen Park | Town Creek | Saint Andrews Estates | Clarkes Landing | Suburban Hills | Patricia Heights | Cedar Cove | Cedar Cove Estates",
     "zipCodes": "20619",
     "address": "22576 MACARTHUR BLVD STE 330, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "callaway-md": {
     "name": "Callaway",
@@ -5138,7 +5138,7 @@
     "neighbourhoods": "Bayview | Beachville | Cedar Cove | Chestnut Hills | Cove Point | Drum Point | Golden Beach | Greenwell | Long Beach | Mill Creek | Mill Cove | Mill Run | Millstone Landing | North Beach",
     "zipCodes": "20620",
     "address": "20293 PINEY POINT RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "cascade-md": {
     "name": "Cascade",
@@ -5235,7 +5235,7 @@
     "neighbourhoods": "Highfield | Fort Ritchie | Pen Mar | Foxville | Blue Mountain | Sabillasville | Cascade | Edgemont | Alpine Village | Highfield-Cascade | Cloverly | South Highfield",
     "zipCodes": "21719",
     "address": "25208 MILITARY RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "cabin-john-md": {
     "name": "Cabin John",
@@ -5332,7 +5332,7 @@
     "neighbourhoods": "Cabin John Village | Macarthur Boulevard | Seven Locks | Persimmon Tree | River Road | Bannockburn | Potomac River | Gainsborough | Goldsboro | Wilson Lane",
     "zipCodes": "20818",
     "address": "7945 MACARTHUR BLVD STE 101, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "cambridge-md": {
     "name": "Cambridge",
@@ -5429,7 +5429,7 @@
     "neighbourhoods": "Long Wharf | Southside | Algonquin | Pine Street | Bayly Road | Whitehall | Neck District | Trappe | Cambridge Heights | Choptank Pines",
     "zipCodes": "21613",
     "address": "301 HIGH ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "catonsville-md": {
     "name": "Catonsville",
@@ -5526,7 +5526,7 @@
     "neighbourhoods": "Academy Heights | Catonsville Heights | Paradise | Westview Park | Catonsville Manor | Westshire | Oak Forest | Colonial Gardens | Westchester West | Catonsville Commons.",
     "zipCodes": "21228",
     "address": "700 GEIPE RD REAR, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "capitol-heights-md": {
     "name": "Capitol Heights",
@@ -5623,7 +5623,7 @@
     "neighbourhoods": "Addison Road | Carmody Hills | Capitol Heights | Central Avenue | Coral Hills | Fairmont Heights | Millwood | Seat Pleasant | Walker Mill",
     "zipCodes": "20743 | 20790",
     "address": "9201 EDGEWORTH DR, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "cavetown-md": {
     "name": "Cavetown",
@@ -5720,7 +5720,7 @@
     "neighbourhoods": "Deerfield | Mountaindale | Choptank | Trenton | Toms Creek | White Oak | Old Farm | Briarwood | River Bend | Oak Hill.",
     "zipCodes": "21720",
     "address": "22509 CAVETOWN CHURCH RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "cecilton-md": {
     "name": "Cecilton",
@@ -5817,7 +5817,7 @@
     "neighbourhoods": "Cecilton Elementary School | Cecil Woods | Locust Landing | Locust Point | West View | Locust Grove | Bohemia Estates.",
     "zipCodes": "21913",
     "address": "127 W MAIN ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "charlestown-md": {
     "name": "Charlestown",
@@ -5914,7 +5914,7 @@
     "neighbourhoods": "Northside | Southside | East End | West End | Waterfront | Harborview | Pleasant Hills | Greenbrier | Bayview Heights | Oakwood | Highland Park | Riverside | Cedar Grove | Fairview",
     "zipCodes": "21914",
     "address": "241 MARKET ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "chaptico-md": {
     "name": "Chaptico",
@@ -6011,7 +6011,7 @@
     "neighbourhoods": "Bushwood | Clements | Maddox | Morganza | Golden Beach | Mechanicsville | Helen | Loveville | Abell | Wicomico Shores | Oakville | Leonardtown | Hollywood | California",
     "zipCodes": "20621",
     "address": "25749 BUDDS CREEK RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "centreville-md": {
     "name": "Centreville",
@@ -6108,7 +6108,7 @@
     "neighbourhoods": "Centreville Historic District | Corsica River Estates | North Brook | Northbrook | Willow Branch | Holly Ridge | Holly Vista | North Brook II | Heritage | North Brook III | Holly Hill | Centreville Heights | Holly Crest.",
     "zipCodes": "21617",
     "address": "202 E WATER ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "charlotte-hall-md": {
     "name": "Charlotte Hall",
@@ -6205,7 +6205,7 @@
     "neighbourhoods": "Oak Hill | Allens Fresh | Chaptico | Mechanicsville | Helen | Holly Corner | Loveville | Morganza | New Market | Clements.",
     "zipCodes": "20622",
     "address": "29948 THREE NOTCH RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "chase-md": {
     "name": "Chase",
@@ -6302,7 +6302,7 @@
     "neighbourhoods": "Huntington Terrace | Pinehurst | Whitehall | Lakevale Estates | Gainsborough | Holly Hill | The Fields | Glynalta Park | Rosewood | Valley Stream | Woodcroft | Old Farm | Idlewilde | Windermere",
     "zipCodes": "21027",
     "address": "12404 EASTERN AVE, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "chesapeake-beach-md": {
     "name": "Chesapeake Beach",
@@ -6399,7 +6399,7 @@
     "neighbourhoods": "Bayview Hills | Breezy Point | The Highlands | Richfield Station | Summer City | Chesapeake Lighthouse | Fishing Creek Forest | Willows Colony | Mariner's Pointe | Dares Beach | Seahorse Beach",
     "zipCodes": "20732",
     "address": "7905 BAYSIDE RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "chesapeake-city-md": {
     "name": "Chesapeake City",
@@ -6496,7 +6496,7 @@
     "neighbourhoods": "South Chesapeake City | North Chesapeake City | Bohemia Manor | Augustine Beach | White Crystal Beach | Red Point Beach | Greenpoint Landing | Bay View | Locust Point | Bayard | Old Point | Warwick | Welch Point | Red Point",
     "zipCodes": "21915",
     "address": "2551 AUGUSTINE HERMAN HWY, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "cheltenham-md": {
     "name": "Cheltenham",
@@ -6593,7 +6593,7 @@
     "neighbourhoods": "Deer Park | Brookland | White House | Bunker Hill | Gwynn Oak | Overbrook | Oakleigh | Queens Chapel | Rogers Heights | Chapel Oaks | Penn Branch | East Riverdale | Melwood | Mitchellville | Surratts Village",
     "zipCodes": "20623",
     "address": "11505 CHERRY TREE CROSSING RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "chester-md": {
     "name": "Chester",
@@ -6690,7 +6690,7 @@
     "neighbourhoods": "Bay City | Kent Island Estates | Gibson Island | Romancoke | Tower Gardens | Annapolis Roads | Queenstown | Love Point | Stevensville | Cloverfields.",
     "zipCodes": "21619",
     "address": "1575 POSTAL RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "chevy-chase-md": {
     "name": "Chevy Chase",
@@ -6787,7 +6787,7 @@
     "neighbourhoods": "Chevy Chase Village",
     "zipCodes": "20815",
     "address": "5910 CONNECTICUT AVE, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "chestertown-md": {
     "name": "Chestertown",
@@ -6884,7 +6884,7 @@
     "neighbourhoods": "Georgetown | Chester Harbor | Radcliffe Creek | Morgnec | Quaker Neck | Cliffs City | Kinnairds Point | Kingston Landing | Fairlee | Worton | Lynch | Langford Bay | Still Pond | Tolchester",
     "zipCodes": "21620",
     "address": "104 SPRING AVE, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "chewsville-md": {
     "name": "Chewsville",
@@ -6981,7 +6981,7 @@
     "neighbourhoods": "Pondsville | Beaver Creek | Pecktonville | Benevola | Mount Aetna | Gapland | Old Forge | Ringgold | Alt | Broadfording | Saint James | Sandy Hook | Mapleville",
     "zipCodes": "21721",
     "address": "21106 TWIN SPRINGS DR, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "childs-md": {
     "name": "Childs",
@@ -7078,7 +7078,7 @@
     "neighbourhoods": "Pine Grove | Oak Forest | Whispering Pines | Spring Valley | Meadowbrook | Lakeside | Cedar Ridge | Willow Creek | Greenbriar | Maplewood",
     "zipCodes": "21916",
     "address": "1470 BLUE BALL RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "church-creek-md": {
     "name": "Church Creek",
@@ -7175,7 +7175,7 @@
     "neighbourhoods": "Bayard | Dames Quarter | Elliot Island | Fairmount | Fishing Creek | Hoopers Island | Hudson | Keene | Madison | Oldfield | Slaughter Creek | Stewart | Taylors Island | Toddville",
     "zipCodes": "21622",
     "address": "4681 GOLDEN HILL RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "churchville-md": {
     "name": "Churchville",
@@ -7272,7 +7272,7 @@
     "neighbourhoods": "Green Ridge Estates | Laurel Ridge | Laurel Valley | Madonna | Pleasantville | Sandy Ridge | Taylor Ridge | Todd Lakes | Vale Meadows | Westfield Village",
     "zipCodes": "21028",
     "address": "2931 CHURCHVILLE RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "church-hill-md": {
     "name": "Church Hill",
@@ -7369,7 +7369,7 @@
     "neighbourhoods": "Greenwood | Wrights | Goodwill | Red Hill | Church Hill Village | Bennett Point | Church Hill Estates | Old Wharf | Willowdale | Church Hill Farms",
     "zipCodes": "21623",
     "address": "558 MAIN ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "churchton-md": {
     "name": "Churchton",
@@ -7466,7 +7466,7 @@
     "neighbourhoods": "Franklin Manor | Franklin Manor Beach | Franklin Manor Beachwood",
     "zipCodes": "20733",
     "address": "5537 DEALE CHURCHTON RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "clarksburg-md": {
     "name": "Clarksburg",
@@ -7563,7 +7563,7 @@
     "neighbourhoods": "Gateway Commons | Greenview | Arora Hills | Cabin Branch | Clarksburg Town Center | Highlands at Clarksburg | Gallery Park | Clarksburg Village | Clarksburg Heights | Clarksburg Square | Parkside at Clarksburg | Clarksburg Ridge | Cabin Branch Towns | Clarksburg Outside",
     "zipCodes": "20871",
     "address": "22505 GATEWAY CENTER DR, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "clinton-md": {
     "name": "Clinton",
@@ -7660,7 +7660,7 @@
     "neighbourhoods": "Clinton Vista | Clinton Woods | Clinton Estates | Clinton Plaza | Clinton View | Clinton Manor | Clinton Heights | Clinton Park | Clinton Grove | Clinton Center",
     "zipCodes": "20735",
     "address": "9134 PISCATAWAY RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "clarksville-md": {
     "name": "Clarksville",
@@ -7757,7 +7757,7 @@
     "neighbourhoods": "Rivers Edge | Linden Linthicum | Brighton Pines | River Hill | Pheasant Valley | Emerson | Highland Reserve | Trotter Ridge | Cliftonbrook",
     "zipCodes": "21029",
     "address": "12171 CLARKSVILLE PIKE, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "clear-spring-md": {
     "name": "Clear Spring",
@@ -7854,7 +7854,7 @@
     "neighbourhoods": "Hilltop | Clear Spring | Big Pool | Indian Springs | Ashton Village | Fox Hollow | Ridge Road | Huyett | Ernstville | Pinesburg",
     "zipCodes": "21722",
     "address": "21 MULBERRY ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "cobb-island-md": {
     "name": "Cobb Island",
@@ -7951,7 +7951,7 @@
     "neighbourhoods": "Cobb Island Beach | Neale Sound | Potomac View | St. Catherine | Shangri-La | Ripley | Riverside | Maryland Point | Morgantown | Rock Point | Yellow Bank | St. Clements Bay | Swan Point",
     "zipCodes": "20625",
     "address": "17009 COBB ISLAND RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "clements-md": {
     "name": "Clements",
@@ -8048,7 +8048,7 @@
     "neighbourhoods": "Hollywood | Coltons Point | Compton | Avenue | Morganza | Mechanicsville | Chaptico | Abell | Helen | Bushwood",
     "zipCodes": "20624",
     "address": "24015 COLTON POINT RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "college-park-md": {
     "name": "College Park",
@@ -8145,7 +8145,7 @@
     "neighbourhoods": "Old Town | Hollywood | Autoville | College Park Estates | College Park Woods | Cherry Hill | Terrapin Station | Paint Branch | Calvert Hills",
     "zipCodes": "20740",
     "address": "9591 BALTIMORE AVE, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "colora-md": {
     "name": "Colora",
@@ -8242,7 +8242,7 @@
     "neighbourhoods": "Perryville | Rising Sun | Port Deposit | Chesapeake Isle | Principio | Conowingo | Darlington | Colora",
     "zipCodes": "21917",
     "address": "2167 LIBERTY GROVE RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "columbia-md": {
     "name": "Columbia",
@@ -8339,7 +8339,7 @@
     "neighbourhoods": "Wilde Lake | Kings Contrivance | Long Reach | River Hill | Hickory Ridge | Owen Brown | Dorsey's Search | Harper's Choice | Town Center | Oakland Mills",
     "zipCodes": "21044 | 21045",
     "address": "6801 OAK HALL LN, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "cockeysville-md": {
     "name": "Cockeysville",
@@ -8436,7 +8436,7 @@
     "neighbourhoods": "Warren | Ivy Hill | Sherwood | Springlake | Springdale | Padonia Village | Broadmead | Beaverbrook | Mays Chapel | Ashland | Hunt Valley | Overton | Ashland Ridge",
     "zipCodes": "21030",
     "address": "115 WIGHT AVE, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "cordova-md": {
     "name": "Cordova",
@@ -8533,7 +8533,7 @@
     "neighbourhoods": "Easton | Matthews | Royal Oak | McDaniel | Windy Hill | Unionville | Oxford | St Michaels | Tunis Mills",
     "zipCodes": "21625",
     "address": "11836 KITTYS CORNER RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "compton-md": {
     "name": "Compton",
@@ -8630,7 +8630,7 @@
     "neighbourhoods": "Pleasant Plains | Brandywine | Croom | Eagle Harbor | Aquasco | Baden | Cedarville | North Keys Estates | Piscataway Landing | Lothian",
     "zipCodes": "20627",
     "address": "22173 BAYSIDE RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "conowingo-md": {
     "name": "Conowingo",
@@ -8727,7 +8727,7 @@
     "neighbourhoods": "Conowingo Village | Darlington | Rock Springs | Oakwood | Hopewell | Liberty Grove | Conowingo Heights | Glen Cove | Quaker Hills | Bay View Estates",
     "zipCodes": "21918",
     "address": "305 CONOWINGO RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "corriganville-md": {
     "name": "Corriganville",
@@ -8824,7 +8824,7 @@
     "neighbourhoods": "Brushy Ridge | Frostburg | Cresaptown | La Vale | Corriganville | Bel Air | Bowling Green | Ellerslie | Mount Savage | Eckhart Mines | Narrows Park | Homewood | North Branch | Wrights Crossing",
     "zipCodes": "21524",
     "address": "10810 KREIGHBAUM RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "coltons-point-md": {
     "name": "Coltons Point",
@@ -8921,7 +8921,7 @@
     "neighbourhoods": "St. Clements Shores | Avenue | Bushwood | Abell | Rock Point | Cobb Island | Maddox | Compton | Avenue Road | Avenue Landing | Coltons Point | Newtown Neck | Clifton Beach",
     "zipCodes": "20626",
     "address": "20254 COLTON POINT RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "crofton-md": {
     "name": "Crofton",
@@ -9018,7 +9018,7 @@
     "neighbourhoods": "Crofton Woods | Crofton Meadows | Chapman Farm | Crofton Park | Crofton Orchard | Crofton Valley | Crofton Mews | Crofton Square | Crofton Chase | Crofton Crest | Crofton Colony | Crofton Commons | Crofton Station.",
     "zipCodes": "21114",
     "address": "1296 CRONSON BLVD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "crownsville-md": {
     "name": "Crownsville",
@@ -9115,7 +9115,7 @@
     "neighbourhoods": "Herald Harbor | Epping Forest | The Downs | Belvoir Farms | Mill Swamp | Pendennis Mount | Saltaire | Cranberry Woods",
     "zipCodes": "21032",
     "address": "1333 GENERALS HWY, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "damascus-md": {
     "name": "Damascus",
@@ -9212,7 +9212,7 @@
     "neighbourhoods": "Kingsview Village | Greenhills Farm | Damascus | Clearspring Manor | Sweepstakes | Ridgeview | Spring Garden Estates | Longmead | Manor Park",
     "zipCodes": "20872",
     "address": "26400 WOODFIELD RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "crisfield-md": {
     "name": "Crisfield",
@@ -9309,7 +9309,7 @@
     "neighbourhoods": "Wenona | South Crisfield | Somerset Avenue | Carter Avenue | Golden Hill | Coulbourne Manor | West Hill | Lawsonia | Tulls Corner | Marion | Jenkins Creek | Riggin Ridge | Shelltown | Frenchtown",
     "zipCodes": "21817",
     "address": "400 W MAIN ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "cumberland-md": {
     "name": "Cumberland",
@@ -9406,7 +9406,7 @@
     "neighbourhoods": "Dingle | Rolling Mill | North End | South End | East Side | West Side | Willowbrook | Braddock Road | Seton Hill | Fayette Street | Johnson Heights | Wills Creek | Maplehurst | Parkside",
     "zipCodes": "21502 | 21503 | 21504 | 21505",
     "address": "12836 DARROWS AVE, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "dameron-md": {
     "name": "Dameron",
@@ -9503,7 +9503,7 @@
     "neighbourhoods": "Piney Point | Tall Timbers | Ridge | Valley Lee | Scotland | Dameron | Abbott | Saint Jerome | Saint George Island | Saint Marys City | California | Lexington Park | Great Mills | Park Hall",
     "zipCodes": "20628",
     "address": "17679 THREE NOTCH RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "crumpton-md": {
     "name": "Crumpton",
@@ -9600,7 +9600,7 @@
     "neighbourhoods": "Hilltop | Chestertown | Lynch | Kennedyville | Galena | Massey | Millington | Georgetown",
     "zipCodes": "21628",
     "address": "213 BROAD ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "davidsonville-md": {
     "name": "Davidsonville",
@@ -9697,7 +9697,7 @@
     "neighbourhoods": "Governor Bridge | Patuxent Manor | Rutland | Lavall | Harwood | Beards Creek | Chesterfield | Woodhaven | Eagle Pass | Davidsonville Village | Waterbury | Avila Beach | Smithville | Tarleton | Misty Manor",
     "zipCodes": "21035",
     "address": "1251 W CENTRAL AVE STE A, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "darlington-md": {
     "name": "Darlington",
@@ -9794,7 +9794,7 @@
     "neighbourhoods": "Glen Cove | Green Spring | Broad Creek | Laurel Brook | Deer Creek | Knopp | Cedarhurst | Norrisville | Berkley Forest | Eden Mill | Darlington Village",
     "zipCodes": "21034",
     "address": "1113 MAIN ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "deal-island-md": {
     "name": "Deal Island",
@@ -9891,7 +9891,7 @@
     "neighbourhoods": "Wenona | Chance | Little Deal Island | Dames Quarter | Ewell",
     "zipCodes": "21821",
     "address": "10051 DEAL ISLAND RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "dundalk-md": {
     "name": "Dundalk",
@@ -9988,7 +9988,7 @@
     "neighbourhoods": "Dundalk | Saint Helena | Gray Manor | Turner Station | Eastwood | Logan Village | Inverness | Stansbury Park | Norwood | Old Dundalk | West Inverness | North Point Village | Holabird Park | Dunshire Townhomes",
     "zipCodes": "21222",
     "address": "44 SHIPPING PL, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "derwood-md": {
     "name": "Derwood",
@@ -10085,7 +10085,7 @@
     "neighbourhoods": "Mill Creek Towne | Park Overlook | Redland Station | Rockcrest | Parkside | Mill Creek South | Winterset",
     "zipCodes": "20855",
     "address": "17533 REDLAND RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "district-heights-md": {
     "name": "District Heights",
@@ -10182,7 +10182,7 @@
     "neighbourhoods": "Marlboro Meadows | Ritchie | Forestville Park | Hillcrest Heights | Forestville | District Heights | Silver Hill | Suitland | Walker Mill | Coral Hills | Auth Village | Oakcrest | Penn Mar | Bradbury",
     "zipCodes": "20747",
     "address": "6514 MARLBORO PIKE, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "deale-md": {
     "name": "Deale",
@@ -10279,7 +10279,7 @@
     "neighbourhoods": "Deale | Masons Beach | Franklin Manor | Rockhold Creek | Traceys Landing | Owings | Fairhaven | Tracys Landing | Mill Swamp | Deale Beach",
     "zipCodes": "20751",
     "address": "650 DEALE RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "denton-md": {
     "name": "Denton",
@@ -10376,7 +10376,7 @@
     "neighbourhoods": "West Denton | East Denton | Choptank | Matthews | Greensboro | Oil City | Williston | Riverton | Baltimore Corner | Andersontown | Hobbs | Two Johns | Harmonsburg | Linchester",
     "zipCodes": "21629",
     "address": "503 MARKET ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "dickerson-md": {
     "name": "Dickerson",
@@ -10473,7 +10473,7 @@
     "neighbourhoods": "Barnesville | Boyds | Beallsville | Dawsonville | Kings Valley | Martinsburg | Poolesville | Dickerson | Hyattstown",
     "zipCodes": "20842",
     "address": "22145 DICKERSON RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "dayton-md": {
     "name": "Dayton",
@@ -10570,7 +10570,7 @@
     "neighbourhoods": "Highland | Triadelphia | Greenway Farms | Brighton Estates | The Chase | Patuxent Springs | Ducketts Lane | Dayton Meadows | Dayton Oaks | Pfefferkorn Square",
     "zipCodes": "21036",
     "address": "4924A 10 OAKS RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "earleville-md": {
     "name": "Earleville",
@@ -10667,7 +10667,7 @@
     "neighbourhoods": "Grove Point | Glebe Heights | Crystal Beach | Hack Point | Indian Acres | West View Shores | Deerhaven | Bay View Estates | Sunset Point | Town Point",
     "zipCodes": "21919",
     "address": "1244 CRYSTAL BEACH RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "dunkirk-md": {
     "name": "Dunkirk",
@@ -10764,7 +10764,7 @@
     "neighbourhoods": "Lyons Creek | Lyons Creek Overlook",
     "zipCodes": "20754",
     "address": "10383 SOUTHERN MARYLAND BLVD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "easton-md": {
     "name": "Easton",
@@ -10861,7 +10861,7 @@
     "neighbourhoods": "Glebe Road | Easton Club | Mulberry Station | Cooke's Hope | Easton Village | Hunters Mill | Waterside | Port Street | Chapel East | South Beech | St. Michaels Road | Easton Parkway",
     "zipCodes": "21601",
     "address": "116 E DOVER ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "eckhart-mines-md": {
     "name": "Eckhart Mines",
@@ -10958,7 +10958,7 @@
     "neighbourhoods": "North End | South End | East Side | West Side | Hilltop | Riverside | Lakeside | Parkview | Oak Hill | Maple Grove.",
     "zipCodes": "21528",
     "address": "10501 ECKHART MINES ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "east-new-market-md": {
     "name": "East New Market",
@@ -11055,7 +11055,7 @@
     "neighbourhoods": "Town Center | Maple Heights | Indian Creek Village | Green Acres | Springdale | Locust Grove | Beaver Dam Estates | Oakley Heights | Wrights Chance | Wrights Creek Estates | Oakwood Village | Fox Grape | Potters Ridge | Mardela Springs",
     "zipCodes": "21631",
     "address": "101 RAILROAD AVE, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "edgewater-md": {
     "name": "Edgewater",
@@ -11152,7 +11152,7 @@
     "neighbourhoods": "Gingerville | Woodland Beach | Londontowne | Glebe Heights | Holly Hill Harbor | Poplar Point | Beverley Beach | Loch Haven Beach | South River Colony",
     "zipCodes": "21037",
     "address": "39 STEPNEY LN, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "eden-md": {
     "name": "Eden",
@@ -11249,7 +11249,7 @@
     "neighbourhoods": "Oak Grove | Westover | Allen | Eden | Venton | Willards | Allen Shop | Meadow Bridge | Shavox | Whitehaven",
     "zipCodes": "21822",
     "address": "31676 EDEN ALLEN RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "edgewood-md": {
     "name": "Edgewood",
@@ -11346,7 +11346,7 @@
     "neighbourhoods": "Willoughby Woods | Woodbridge Center | Willoughby Beach | Woodbridge Manor",
     "zipCodes": "21040",
     "address": "2290 HANSON RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "elkridge-md": {
     "name": "Elkridge",
@@ -11443,7 +11443,7 @@
     "neighbourhoods": "Hanover | Rockburn | Wesley Grove | Long Gate | Harwood Park | Elkridge Heights | Hunt Club Estates | Howard Square | Lyndwood | Dorsey Hall | Elkridge Landing | Montevideo | Lawyers Hill",
     "zipCodes": "21075",
     "address": "6655 SANTA BARBARA RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "ellicott-city-md": {
     "name": "Ellicott City",
@@ -11540,7 +11540,7 @@
     "neighbourhoods": "Dunloggin | Turf Valley | Ellicott Hills | Woodmark | Font Hill | Mount Hebron | Shipley's Grant | Oella",
     "zipCodes": "21042 | 21043",
     "address": "3375 ELLICOTT CENTER DR, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "elkton-md": {
     "name": "Elkton",
@@ -11637,7 +11637,7 @@
     "neighbourhoods": "Elkton Heights | Elkwood | Hollingsworth Manor | White Hall | Marley Woods | Elk River Park | Friendship Village | Lakeside | Persimmon Creek | West Creek Village.",
     "zipCodes": "21921",
     "address": "137 W MAIN ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "elk-mills-md": {
     "name": "Elk Mills",
@@ -11734,7 +11734,7 @@
     "neighbourhoods": "Oakwood | Cherry Hill | Fair Hill | Childs | West Nottingham | Calvert | Liberty Grove | Aikin | Elk Forge | Elk Creek | Elkton | Sulphur Springs | Earleville | Warwick",
     "zipCodes": "21920",
     "address": "732 ELK MILLS RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "essex-md": {
     "name": "Essex",
@@ -11831,7 +11831,7 @@
     "neighbourhoods": "Essex | Middle River | Rossville | Bowleys Quarters | Back River | Turner Station | Fort Howard | Chase | Hawthorne | Watersedge | Deep Creek | Stansbury | Rocky Point | Hyde Park",
     "zipCodes": "21221",
     "address": "444 MARYLAND AVE, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "emmitsburg-md": {
     "name": "Emmitsburg",
@@ -11928,7 +11928,7 @@
     "neighbourhoods": "West Main Street | South Seton Avenue | North Seton Avenue | Old Frederick Road | Creamery Road | Jimtown Road | Hampton Valley Road | Harney Road | Irishtown Road | Welty Road | Silo Hill",
     "zipCodes": "21727",
     "address": "305 S SETON AVE, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "ellerslie-md": {
     "name": "Ellerslie",
@@ -12025,7 +12025,7 @@
     "neighbourhoods": "Parkside | Spring Valley | Oakwood | Green Acres | Willowbrook | Pinehurst | Highland Park | Hillcrest | Cedar Hill | Pleasant View",
     "zipCodes": "21529",
     "address": "14302 ELLERSLIE RD NW, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "ewell-md": {
     "name": "Ewell",
@@ -12122,7 +12122,7 @@
     "neighbourhoods": "Broomes Island | Cowart | Dowell | Drum Point | Ewell | Island Creek | Kedges Strait | Masons | Oysterback | Rhodes Point | Smithville | Tylerton | Wenona",
     "zipCodes": "21824",
     "address": "20925 CALEB JONES RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "faulkner-md": {
     "name": "Faulkner",
@@ -12219,7 +12219,7 @@
     "neighbourhoods": "Glenwood | Oakwood | Cedarwood | Maplewood | Pinecrest | Riverbend | Stonybrook | Willowbrook | Meadowview | Valley Forge.",
     "zipCodes": "20632",
     "address": "9977 FAULKNER RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "federalsburg-md": {
     "name": "Federalsburg",
@@ -12316,7 +12316,7 @@
     "neighbourhoods": "Central | Georgetown | Fox Grape | Lake and Grove | Federal Hill | Hubbert Landing | Smithville | Wrights | Melvills | Reliance | American Corner | Browns Landing",
     "zipCodes": "21632",
     "address": "122 MORRIS AVE, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "fairplay-md": {
     "name": "Fairplay",
@@ -12413,7 +12413,7 @@
     "neighbourhoods": "Springfield | Oak Hill | Piney Grove | Maplewood | Rolling Hills | Fairview | Northwood | Cedar Ridge | Meadowbrook | Willowbrook.",
     "zipCodes": "21733",
     "address": "8215 SHARPSBURG PIKE, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "flintstone-md": {
     "name": "Flintstone",
@@ -12510,7 +12510,7 @@
     "neighbourhoods": "North End | South End | Mountain View | Flintstone Village | Valley Road | Pleasant Valley | Rocky Ridge | Hickory Hollow | Meadowbrook | Pine Ridge",
     "zipCodes": "21530",
     "address": "21600 NATIONAL PIKE NE, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "fallston-md": {
     "name": "Fallston",
@@ -12607,7 +12607,7 @@
     "neighbourhoods": "Benson | Watervale | Baldwin Mill | Pleasantville | Reckford | Upper Crossroads | Fork | Fallston Village | Hess | Wildwood | Pleasant Hills",
     "zipCodes": "21047",
     "address": "2416 WATERVALE RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "fishing-creek-md": {
     "name": "Fishing Creek",
@@ -12704,7 +12704,7 @@
     "neighbourhoods": "Bay Ridge Estates | Woodland Acres | Deep Harbour | Chesapeake Ranch Estates | Clarkes Landing | Drum Point | Cove of Calvert | Calvert Beach | Meadow Lake | White Sands | Mill Creek | Drum Point Beach | Drum Point Cove | Drum Point Village",
     "zipCodes": "21634",
     "address": "2654 HOOPERS ISLAND RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "fork-md": {
     "name": "Fork",
@@ -12801,7 +12801,7 @@
     "neighbourhoods": "Hickory Ridge | Long Reach | Harper's Choice | Dorsey's Search | Wilde Lake | Owen Brown | King's Contrivance | River Hill | Town Center | Oakland Mills",
     "zipCodes": "21051",
     "address": "12544 HARFORD RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "finksburg-md": {
     "name": "Finksburg",
@@ -12898,7 +12898,7 @@
     "neighbourhoods": "Sandymount | Old Gamber | Hillside | Linton Springs | Wakefield Valley | Stover Ridge | Mayberry | Wagners Mill | Sandyville",
     "zipCodes": "21048",
     "address": "3000 GAMBER RD STE 13, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "fort-washington-md": {
     "name": "Fort Washington",
@@ -12995,7 +12995,7 @@
     "neighbourhoods": "North Fort Washington | South Fort Washington | Tantallon | Indian Queen Estates | Piscataway Hills | Friendly | Swan Creek | Rosecroft Park | Fort Foote Village | Fort Washington Forest",
     "zipCodes": "20744",
     "address": "11550 LIVINGSTON RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "fort-george-g-meade-md": {
     "name": "Fort George G Meade",
@@ -13092,7 +13092,7 @@
     "neighbourhoods": "Piney Orchard | Odenton | Severn | Jessup | Crofton | Gambrills | Millersville | Glen Burnie | Hanover | Fort Meade",
     "zipCodes": "20755",
     "address": "2789 MACARTHUR RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "frederick-md": {
     "name": "Frederick",
@@ -13189,7 +13189,7 @@
     "neighbourhoods": "Downtown | Ballenger Creek | Hillcrest | Worman's Mill | Monocacy Village | Tuscarora | Taskers Chance | Amber Meadows | Willow Brook | Stonegate | Wormans Mill Village | Clover Hill | Dearbought | Spring Ridge",
     "zipCodes": "21701 | 21702",
     "address": "201 E PATRICK ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "friendship-md": {
     "name": "Friendship",
@@ -13286,7 +13286,7 @@
     "neighbourhoods": "Oakwood | Maplewood | Woodland | Cedarwood | Pinecrest | Hillcrest | Meadowbrook | Ridgewood | Oakridge | Fairview | Springbrook | Forest Hills",
     "zipCodes": "20758",
     "address": "4 FRIENDSHIP RD W, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "friendsville-md": {
     "name": "Friendsville",
@@ -13383,7 +13383,7 @@
     "neighbourhoods": "Ruth | Friendsville | Chestnut Ridge | Cove | Hutton | Maple | Oak | Walnut | Whitetail | Youghiogheny",
     "zipCodes": "21531",
     "address": "836 1ST AVE, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "frostburg-md": {
     "name": "Frostburg",
@@ -13480,7 +13480,7 @@
     "neighbourhoods": "Frostburg | Eckhart Mines | Vale Summit | Midlothian | Clarysville | Zihlman | Woodland | Midland | Pocahontas | Ocean | Dan's Mountain | Carlos | Bowmans Addition | Pleasant Grove | Bel Air",
     "zipCodes": "21532",
     "address": "37 W MAIN ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "freeland-md": {
     "name": "Freeland",
@@ -13577,7 +13577,7 @@
     "neighbourhoods": "Hemlock Ridge | Dogwood Acres | My Ladys Manor | Bentley Ridge | Freeland | Parkton | Blue Mount | Wiseburg | Rayville | Graystone | Rolling Hills | Hereford Zone | Norrisville | Boring",
     "zipCodes": "21053",
     "address": "21600 NEW FREEDOM RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "fruitland-md": {
     "name": "Fruitland",
@@ -13674,7 +13674,7 @@
     "neighbourhoods": "Westside | Riverside | Orchard Park | Woodland | Maplewood | Meadowbrook | Holly Hill | Spring Hill | Foxrun | Country Club Village | Georgetown | Pinehurst | Johnson Pond | Eastover Village",
     "zipCodes": "21826",
     "address": "201 E MAIN ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "fulton-md": {
     "name": "Fulton",
@@ -13771,7 +13771,7 @@
     "neighbourhoods": "Maple Lawn | Simpsonville | Highland | Fulton Estates | Pindell Woods | Columbia | North Laurel | Dayton | Glenelg | Scaggsville",
     "zipCodes": "20759",
     "address": "11831 SCAGGSVILLE RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "gambrills-md": {
     "name": "Gambrills",
@@ -13868,7 +13868,7 @@
     "neighbourhoods": "Chapman Farms | Saddlebrook | Four Seasons Estates | Autumn Chase | Wilsons Grove | Saddlebrook West | Saddlebrook East | Saddlebrook Estates | The Overlook | The Preserve",
     "zipCodes": "21054",
     "address": "388 GAMBRILLS RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "funkstown-md": {
     "name": "Funkstown",
@@ -13965,7 +13965,7 @@
     "neighbourhoods": "North End | South End | West End | East End | Maple Avenue | Crystal Falls | Diamond Ring | Orchard Hills | Beaver Creek Meadows | Fiddlers Green | Manor Church | Cedar Hills | Pleasant Valley",
     "zipCodes": "21734",
     "address": "29 FREDERICK RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "forest-hill-md": {
     "name": "Forest Hill",
@@ -14062,7 +14062,7 @@
     "neighbourhoods": "Forest Lakes | Pylesville | Norrisville | Street | Rocks | Jarrettsville | Fallston | Baldwin | Hydes",
     "zipCodes": "21050",
     "address": "2329 ROCK SPRING RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "galena-md": {
     "name": "Galena",
@@ -14159,7 +14159,7 @@
     "neighbourhoods": "Whitetail | Fox Creek | Galena | Middletown | Bethel | Holly Oak | Clay Corner | Scotchman Run | Georgetown | Millington | Massey | Sassafras | Kennedyville | Still Pond",
     "zipCodes": "21635",
     "address": "124 W CROSS ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "gaithersburg-md": {
     "name": "Gaithersburg",
@@ -14256,7 +14256,7 @@
     "neighbourhoods": "Kentlands | Lakelands | Quince Orchard Park | Washingtonian Center | Crown | Orchard Hills | Observatory Heights | Diamond Farms | Parklands | Hidden Creek | Saybrooke | Fernshire Farms | Orchard Place | Watkins Mill",
     "zipCodes": "20877 | 20878 | 20898",
     "address": "16501 SHADY GROVE RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "garrett-park-md": {
     "name": "Garrett Park",
@@ -14353,7 +14353,7 @@
     "neighbourhoods": "Kenilworth | Rock Creek Gardens | White Flint Park | Parkside | Luxmanor | Old Farm | Wildwood Manor | Grosvenor Park | Ashburton",
     "zipCodes": "20896",
     "address": "4600 WAVERLY AVE, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "georgetown-md": {
     "name": "Georgetown",
@@ -14450,7 +14450,7 @@
     "neighbourhoods": "East Village | West Village | Burleith | Foxhall | Glover Park | Hillandale | Palisades | Spring Valley | The Cloisters | The Oaks | The Westchester | Wesley Heights",
     "zipCodes": "21930",
     "address": "7480 AUGUSTINE HERMAN HWY, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "glen-burnie-md": {
     "name": "Glen Burnie",
@@ -14547,7 +14547,7 @@
     "neighbourhoods": "Ferndale | South Gate | Glen Burnie Park | Harundale | Point Pleasant | Marley | Tanyard Springs | Fox Chase | The Highlands | Country Club Estates",
     "zipCodes": "21061",
     "address": "7596 RITCHIE HWY, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "galesville-md": {
     "name": "Galesville",
@@ -14644,7 +14644,7 @@
     "neighbourhoods": "West River | Shady Side | Harwood | Churchton | Lothian | Deale | Tracys Landing | Fairhaven | Friendship | Beverly Beach | Selby-on-the-Bay | Rose Haven | North Beach | Chesapeake Beach",
     "zipCodes": "20765",
     "address": "948 GALESVILLE RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "glenelg-md": {
     "name": "Glenelg",
@@ -14741,7 +14741,7 @@
     "neighbourhoods": "Glenelg | Sharp Road | Folly Quarter | Triadelphia Mill | Cattail Creek | The Warfields | Hobbs | Glenwood Springs | Highland | Carrs Mill | Dorseys Search | Willow Springs | Heritage Hill | Waverly Woods | River Hill.",
     "zipCodes": "21737",
     "address": "3900 10 OAKS RD UNIT 7, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "girdletree-md": {
     "name": "Girdletree",
@@ -14838,7 +14838,7 @@
     "neighbourhoods": "Girdletree Center | Sunny Ridge | Oakwood Estates | Pinecrest | Maplewood | Riverside | Lakeside | Whispering Pines | Woodland Heights | Green Acres | Meadowbrook | Cedar Lane | Hilltop | Willow Creek",
     "zipCodes": "21829",
     "address": "2744 SNOW HILL RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "glen-echo-md": {
     "name": "Glen Echo",
@@ -14935,7 +14935,7 @@
     "neighbourhoods": "Glen Echo Park | Mohican Hills | Glen Echo Heights | Brookmont | Tulip Hill | Glen Mar Park | Springfield | Woodacres | Sumner | Westmoreland Hills",
     "zipCodes": "20812",
     "address": "6106 HARVARD AVE, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "glenn-dale-md": {
     "name": "Glenn Dale",
@@ -15032,7 +15032,7 @@
     "neighbourhoods": "Woodmore | Fairwood | Glendale Forests | Glendale Woods | Glendale Knolls | Glendale Plaza | Glendale Terrace | Glendale Heights | Glendale Park | Glendale Estates",
     "zipCodes": "20769",
     "address": "7003 GLENN DALE RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "glenwood-md": {
     "name": "Glenwood",
@@ -15129,7 +15129,7 @@
     "neighbourhoods": "Brighton Estates | Brantwood | Cattail Creek | Chapel Estates | Chiswell | Copenhaver | Elko | Glenwood Springs | Green Haven | Hobbs | Howard Heights | Howard Lodge | Maple Lawn | Patapsco Forest | Wellington Trace",
     "zipCodes": "21738",
     "address": "3000 ROUTE 97, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "grantsville-md": {
     "name": "Grantsville",
@@ -15226,7 +15226,7 @@
     "neighbourhoods": "North Glade | Hazelhurst | Piney Mountain | Cove | Mountain Lake Park | Grantsville | Finzel | Bittinger | Selbysport | Avilton",
     "zipCodes": "21536",
     "address": "159 MAIN ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "goldsboro-md": {
     "name": "Goldsboro",
@@ -15323,7 +15323,7 @@
     "neighbourhoods": "Pleasant Plains | Washington Park | North End | Arlington Boulevard | Southwood | Green Acres | Oakland | Reedy Branch | Mar-Mac Village | Evergreen Park",
     "zipCodes": "21636",
     "address": "507 OLDTOWN RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "glyndon-md": {
     "name": "Glyndon",
@@ -15420,7 +15420,7 @@
     "neighbourhoods": "Reisterstown | Owings Mills | Glyndon Village | Worthington Valley | Garrison Forest | Boring | Caves Valley | Woodensburg.",
     "zipCodes": "21071",
     "address": "2 RAILROAD AVE, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "greenbelt-md": {
     "name": "Greenbelt",
@@ -15517,7 +15517,7 @@
     "neighbourhoods": "Belle Point | Boxwood Village | Greenbelt Homes | Greenbriar | Hunting Ridge | Lakeside North | New Deal | Northway | Old Greenbelt | Original Northway | Research Road | Ridge Road | Roosevelt Center | Springhill Lake | Tanglewood",
     "zipCodes": "20770",
     "address": "7600 ORA GLEN DR, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "gibson-island-md": {
     "name": "Gibson Island",
@@ -15614,7 +15614,7 @@
     "neighbourhoods": "Gibson Island Beach | Broadwater | Harborview | Twin Harbors | Oxbow | Persimmon Point | Sillery Bay | Warrington | Cypress Point | St. Giles | Broad Cove | Sassafras Point | The Point | Island View",
     "zipCodes": "21056",
     "address": "534 BROADWATER WAY, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "great-mills-md": {
     "name": "Great Mills",
@@ -15711,7 +15711,7 @@
     "neighbourhoods": "Wildewood | Greenview | Greenview Knolls | Saint Georges Estates | Sierra Drive | Laurel Glen | Great Mills | Patuxent Homes | Millison Plaza | South Hampton.",
     "zipCodes": "20634",
     "address": "20041 POINT LOOKOUT RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "grasonville-md": {
     "name": "Grasonville",
@@ -15808,7 +15808,7 @@
     "neighbourhoods": "Winchester Estates | Prospect Bay | Tower Gardens | Safe Harbor | Greenwood | Kent Narrows | Bennett Point | Queen Anne Colony | White Marsh | Grasonville Village | Perry's Corner | Chester River Beach | Kent Point | Oyster Cove",
     "zipCodes": "21638",
     "address": "4307 MAIN ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "gunpowder-md": {
     "name": "Gunpowder",
@@ -15905,7 +15905,7 @@
     "neighbourhoods": "Baldwin | Fork | Kingsville | Upper Falls | Glen Arm | Hydes | Long Green | Phoenix | Jacksonville | Monkton | White Hall",
     "zipCodes": "21010",
     "address": "4405 AUSTIN RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "hampstead-md": {
     "name": "Hampstead",
@@ -16002,7 +16002,7 @@
     "neighbourhoods": "North Woods | Roberts Field | Fairway | Roberts Mill | White Oak | Castlefield | Southwood | Boxwood Village | Willow Glen | Spring Garden | Greenfield | Hampstead Valley | Panther Drive | Westwood Park",
     "zipCodes": "21074",
     "address": "4229 N WOODS TRL, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "halethorpe-md": {
     "name": "Halethorpe",
@@ -16099,7 +16099,7 @@
     "neighbourhoods": "Oak Park | Arbutus | Relay | Riverview | Paradise | Halethorpe Heights | West Halethorpe | River Chase | Francisville | Oakdale | Linden Heights | Lansdowne | Elkridge Landing",
     "zipCodes": "21227",
     "address": "6 WAELCHLI AVE, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "gwynn-oak-md": {
     "name": "Gwynn Oak",
@@ -16196,7 +16196,7 @@
     "neighbourhoods": "Woodlawn | Lochearn | Milford Mill | Catonsville | Windsor Mill | Pikesville | Randallstown | Ellicott City",
     "zipCodes": "21207",
     "address": "6101 LIBERTY RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "greensboro-md": {
     "name": "Greensboro",
@@ -16293,7 +16293,7 @@
     "neighbourhoods": "Central | East End | West End | Waterford | Green Haven | Oakwood | Lakewood | Briarwood | Pinehurst | Glenwood | Willow Creek | Maplewood | Riverwalk.",
     "zipCodes": "21639",
     "address": "202 W SUNSET AVE, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "hancock-md": {
     "name": "Hancock",
@@ -16390,7 +16390,7 @@
     "neighbourhoods": "North End | South End | Riverside | Fairview | Maple Street | Pennsylvania Avenue | High Street | Church Street | Hawbaker Avenue | Washington Street | Main Street | Fulton Street | Baltimore Street | Mill Street",
     "zipCodes": "21750",
     "address": "210 N PENNSYLVANIA AVE, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "hanover-md": {
     "name": "Hanover",
@@ -16487,7 +16487,7 @@
     "neighbourhoods": "Stoney Run | Ridge Commons | Dorsey Hall | Parkside | Harmans Woods | Arundel Preserve | Villages At Dorchester | Timber Ridge | Parkside Towns | Parkside Plaza",
     "zipCodes": "21076",
     "address": "7476 NEW RIDGE RD STE G, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "hagerstown-md": {
     "name": "Hagerstown",
@@ -16584,7 +16584,7 @@
     "neighbourhoods": "City Park | North End | West End | South End | Oak Hill | Pangborn | Potomac Heights | Historic City | North Hagerstown | Westfields | Sunrise | East End | St. James Village",
     "zipCodes": "21740 | 21742",
     "address": "12912 CONAMAR DR, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "harwood-md": {
     "name": "Harwood",
@@ -16681,7 +16681,7 @@
     "neighbourhoods": "Oakwood | Pinehurst | Cedarwood | Maplewood | Elmwood | Birchwood | Poplarwood | Cherrywood | Locustwood | Willowwood | Aspenwood | Sycamorewood | Dogwood",
     "zipCodes": "20776",
     "address": "4450 SOLOMONS ISLAND RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "hebron-md": {
     "name": "Hebron",
@@ -16778,7 +16778,7 @@
     "neighbourhoods": "Hebron Heights | Pine Knoll | Meadow Brook | Marley Woods | Holly Tree | Whispering Pines | Spring Meadows | Oakwood | Foxwood | Greenbriar | Country Club Estates",
     "zipCodes": "21830",
     "address": "102 N MAIN ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "havre-de-grace-md": {
     "name": "Havre De Grace",
@@ -16875,7 +16875,7 @@
     "neighbourhoods": "Bayview Estates | Grace Harbour | Greenway Farms | Havre de Hills | Graw Run Estates | Meadowvale | Bulle Rock | Gracecroft | Bay Oaks",
     "zipCodes": "21078",
     "address": "301 N JUNIATA ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "hughesville-md": {
     "name": "Hughesville",
@@ -16972,7 +16972,7 @@
     "neighbourhoods": "Wicomico Shores | St. Mary's Colony | Holly Haven | Ashburn | Hills Corner | Oakleigh Forest | Huckleberry Woods | Apple Grove | Hunting Quarters | Newmarket Village | Indian Head Acres | Chapel Point Woods | Pin Oak Village",
     "zipCodes": "20637",
     "address": "15485 PRINCE FREDERICK RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "highland-md": {
     "name": "Highland",
@@ -17069,7 +17069,7 @@
     "neighbourhoods": "Highland | Clarksville | Fulton | Simpsonville | Ashton | Sandy Spring",
     "zipCodes": "20777",
     "address": "12975 HIGHLAND RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "henderson-md": {
     "name": "Henderson",
@@ -17166,7 +17166,7 @@
     "neighbourhoods": "Piney Neck | Hollywood | Wades Point | Choptank Pines | Chance | Kentmore Park | Tanyard | Cooper | Browns Corner | Wrights | Cedar Beach",
     "zipCodes": "21640",
     "address": "321 BEE TREE RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "hurlock-md": {
     "name": "Hurlock",
@@ -17263,7 +17263,7 @@
     "neighbourhoods": "North Hurlock | South Hurlock | East Hurlock | West Hurlock | Lakeside | Maplewood | Pinehurst | Oakwood | Green Acres | Meadowbrook | Riverside | Willow Creek | Sunset Ridge | Cedar Lane",
     "zipCodes": "21643",
     "address": "111 POPLAR ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "huntingtown-md": {
     "name": "Huntingtown",
@@ -17360,7 +17360,7 @@
     "neighbourhoods": "Holland Cliffs | Plum Point | Huntingtown Farms | Plum Point Woods | Lyons Creek Overlook | Walnut Creek | Walnut Creek Estates | Huntingtown Meadows | Marley Run | Cedar Hill | Woodland Acres | Huntingtown Town Center",
     "zipCodes": "20639",
     "address": "4020 OLD TOWN RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "hollywood-md": {
     "name": "Hollywood",
@@ -17457,7 +17457,7 @@
     "neighbourhoods": "Hollywood Shores | Forest Landing | Hollywood Beach | Broad Creek | Sotterley | Clarkes Landing | Forest Hall | Hollywood Farm | Shady Knolls.",
     "zipCodes": "20636",
     "address": "24351 MERVELL DEAN RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "hillsboro-md": {
     "name": "Hillsboro",
@@ -17554,7 +17554,7 @@
     "neighbourhoods": "Woodbrook | Burleigh Manor | Brightwood | Long Meadow | West End | Daniel's Park | Hillmeade Station | Northwood Park | Highland Park | Hobbits Glen | Wilde Lake Village | Beaverbrook | Allview Estates",
     "zipCodes": "21641",
     "address": "22043 MAIN ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "hydes-md": {
     "name": "Hydes",
@@ -17651,7 +17651,7 @@
     "neighbourhoods": "Hydes | Long Green | Glen Arm | Baldwin | Jacksonville | Cub Hill | Fork | Hydes Road | Sweet Air | Dulaney Valley | Pine Ridge | Long Green Estates | Manor Glen",
     "zipCodes": "21082",
     "address": "5237 HYDES RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "jefferson-md": {
     "name": "Jefferson",
@@ -17748,7 +17748,7 @@
     "neighbourhoods": "Braddock Heights | Middletown | Jefferson | Brunswick | Burkittsville | Adamstown | Point of Rocks | Rosemont | Knoxville | Brownsville | Gapland.",
     "zipCodes": "21755",
     "address": "3702 JEFFERSON PIKE, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "ingleside-md": {
     "name": "Ingleside",
@@ -17845,7 +17845,7 @@
     "neighbourhoods": "Parkside | Hillcrest | Maplewood | Glenmont | Forest Oaks | Pine Hills | Orchard Valley | Cedar Grove | Meadowbrook | Woodland Heights | Oakwood | Willow Creek | Rolling Hills | Greenbriar",
     "zipCodes": "21644",
     "address": "2626 ROBERTS STATION RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "indian-head-md": {
     "name": "Indian Head",
@@ -17942,7 +17942,7 @@
     "neighbourhoods": "Potomac Heights | Potomac Manor | Potomac Landing | Potomac Heights Estates | Riverside Run",
     "zipCodes": "20640",
     "address": "4050 INDIAN HEAD HWY, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "hyattsville-md": {
     "name": "Hyattsville",
@@ -18039,7 +18039,7 @@
     "neighbourhoods": "Queens Chapel | Kirkwood | Chillum | Avondale | Hyattsville Hills | University Hills | Arts District | Acredale | Avondale Ridge | Kirkwood Palisades | Kirkwood Park | Hamilton Street | Woodlawn | Hyattsville Historic District",
     "zipCodes": "20781 | 20782 | 20783 | 20784 | 20785",
     "address": "6525 BELCREST RD LBBY 180, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "joppa-md": {
     "name": "Joppa",
@@ -18136,7 +18136,7 @@
     "neighbourhoods": "Rumsey Island | Joppa Heights | Joppatowne | Foster Branch | Clayton Village | Magnolia | Trimble Meadows | Forest Greens | Harford Square",
     "zipCodes": "21085",
     "address": "906 JOPPA FARM RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "keedysville-md": {
     "name": "Keedysville",
@@ -18233,7 +18233,7 @@
     "neighbourhoods": "Keedysville | Mount Hebron | Tilghmanton | Chestnut Grove | Highland Manor | Greenfield | Sandy Hook | Mount Briar | Sharpsburg Junction | Beaver Creek | Benevola | Benevola Community | Fletcherville",
     "zipCodes": "21756",
     "address": "21 S MAIN ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "jessup-md": {
     "name": "Jessup",
@@ -18330,7 +18330,7 @@
     "neighbourhoods": "Fairfield | Savage-Guilford | Guilford | Hanover | Severn | North Laurel | Annapolis Junction",
     "zipCodes": "20794",
     "address": "2851 JESSUP RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "jarrettsville-md": {
     "name": "Jarrettsville",
@@ -18427,7 +18427,7 @@
     "neighbourhoods": "Scarboro Hills | Madonna | Echo Dell | Pleasantville | Dulaney Valley Estates | Norrisville | Norrisville Heights | New Park | Franklinville | Baldwin | Hydes | Hess | Morse | Woodlyn Heights | West Baldwin",
     "zipCodes": "21084",
     "address": "3713 FEDERAL HILL RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "kennedyville-md": {
     "name": "Kennedyville",
@@ -18524,7 +18524,7 @@
     "neighbourhoods": "Bayside | Kennedyville",
     "zipCodes": "21645",
     "address": "11959 AUGUSTINE HERMAN HWY, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "kingsville-md": {
     "name": "Kingsville",
@@ -18621,7 +18621,7 @@
     "neighbourhoods": "Bradshaw | Jerusalem | Fork | Long Green | Kingsville | Upper Falls | Hydes | Franklinville | Baldwin | Glen Arm",
     "zipCodes": "21087",
     "address": "7363 SUNSHINE AVE, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "kensington-md": {
     "name": "Kensington",
@@ -18718,7 +18718,7 @@
     "neighbourhoods": "Rock Creek Palisades | Chevy Chase View | Kensal Green | Oakland Terrace | Connecticut Avenue Estates | Ken Gar | Kensington Heights | Homewood | Marlow Heights | North Bethesda | Wheaton Chase",
     "zipCodes": "20895",
     "address": "10325 KENSINGTON PKWY, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "keymar-md": {
     "name": "Keymar",
@@ -18815,7 +18815,7 @@
     "neighbourhoods": "Green Valley | Keysville | Bark Hill | Harney | Ladiesburg | Linwood | Middleburg | Union Bridge | Uniontown",
     "zipCodes": "21757",
     "address": "6747 MIDDLEBURG RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "kitzmiller-md": {
     "name": "Kitzmiller",
@@ -18912,7 +18912,7 @@
     "neighbourhoods": "Kitzmiller Village | Crossroads | Pleasant Valley | Blaine | Gorman | Swanton | Hutton | Bloomington | Crellin | Deer Park.",
     "zipCodes": "21538",
     "address": "103 W CENTER ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "lanham-md": {
     "name": "Lanham",
@@ -19009,7 +19009,7 @@
     "neighbourhoods": "Woodstream | Lanham-Seabrook | Seabrook Acres | Seabrook Park Estates | Seabrook | Seabrook Estates | Seabrook Park | Lanham Village | Lincoln | Whitfield Chapel",
     "zipCodes": "20706",
     "address": "9801 LANHAM SEVERN RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "la-plata-md": {
     "name": "La Plata",
@@ -19106,7 +19106,7 @@
     "neighbourhoods": "Hawthorne | King's Grant | Ell Lane | Oak Avenue | Spring Valley | Charles Street | Gleneagles | Greenmeadow | Quailwood | St. Mary's Square",
     "zipCodes": "20646",
     "address": "100 CENTENNIAL ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "laurel-md": {
     "name": "Laurel",
@@ -19203,7 +19203,7 @@
     "neighbourhoods": "Scaggsville | Maryland City | North Laurel | South Laurel | Russett | West Laurel | Laurel Lakes | Montpelier | Fairlawn | Briarwood | Brock Bridge | Snowden | Whiskey Bottom | Oaklands | Emerson",
     "zipCodes": "20707 | 20708",
     "address": "12625 LAUREL BOWIE RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "leonardtown-md": {
     "name": "Leonardtown",
@@ -19300,7 +19300,7 @@
     "neighbourhoods": "Hickory Hills | Breton Bay | Leonardtown Farms | Saint Clements Shores | Dylan Acres | Clarkes Landing | Leonardtown Village | Medleys Neck | Sotterley | Leonardtown Wharf | Abell | Newtowne Neck | Park Pines | Oak Manor",
     "zipCodes": "20650",
     "address": "22735 WASHINGTON ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "laytonsville-md": {
     "name": "Laytonsville",
@@ -19397,7 +19397,7 @@
     "neighbourhoods": "Griffith Estates | Laytonsville Town | Warfield Estates | Griffith Road | Damascus Road | Riggs Meadow | Bennett Chase | Laytonsville Knolls | Silver Spring | Olney | Gaithersburg | Rockville | Germantown | Clarksburg",
     "zipCodes": "20882",
     "address": "6830 OLNEY LAYTONSVILLE RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "libertytown-md": {
     "name": "Libertytown",
@@ -19494,7 +19494,7 @@
     "neighbourhoods": "Lake Linganore | Monrovia | Discovery | Coldstream | Royal Oaks | Meadows | Prospect View | Woodridge | White Rock | Wolfsville | Franklinville | Unionville | Keymar | Woodsboro",
     "zipCodes": "21762",
     "address": "11941 MAIN ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "lexington-park-md": {
     "name": "Lexington Park",
@@ -19591,7 +19591,7 @@
     "neighbourhoods": "Willis Wharf | Esperanza Farms | Wildewood | Cedar Cove | Pegg Run | Patuxent Park | Westbury | South Gate | South Paxon | PAX River Estates | Coral Hills | Spring Valley | Willow Woods.",
     "zipCodes": "20653",
     "address": "21745 S CORAL DR, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "linkwood-md": {
     "name": "Linkwood",
@@ -19688,7 +19688,7 @@
     "neighbourhoods": "Central Park | Rosemont | Spring Lake | Southgate | Piney Grove | Eastwood | Northwood | Oak Hill | Willowbrook | Woodland Acres",
     "zipCodes": "21835",
     "address": "3843 OCEAN GTWY, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "loveville-md": {
     "name": "Loveville",
@@ -19785,7 +19785,7 @@
     "neighbourhoods": "Oakley | Laurel Ridge | Loveville | Loveville Road | Chancellors Run | Point Lookout Road | Mechanicsville | Leonardtown | Leonardtown Road | Country Lakes | Pegg Road | St. Andrews | Hollywood | Wildewood",
     "zipCodes": "20656",
     "address": "27770 POINT LOOKOUT RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "linthicum-heights-md": {
     "name": "Linthicum Heights",
@@ -19882,7 +19882,7 @@
     "neighbourhoods": "Linthicum | North Linthicum | Linthicum Heights | Patapsco | Hilltop | Shipley | Stoll | Country Club Estates | Orchard Beach | Chestnut Hill Cove | Ferndale | Harmans | Brooklyn Park.",
     "zipCodes": "21090",
     "address": "515 S CAMP MEADE RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "lisbon-md": {
     "name": "Lisbon",
@@ -19979,7 +19979,7 @@
     "neighbourhoods": "Woodbine | Cooksville | Glenwood | Daisy | Lisbon | Morgan | Poplar Springs | Watersville | Dayton | Florence | Arthur | Green Valley",
     "zipCodes": "21765",
     "address": "1280 HOPKINS ALY, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "lonaconing-md": {
     "name": "Lonaconing",
@@ -20076,7 +20076,7 @@
     "neighbourhoods": "West Lonaconing | East Lonaconing | Midtown | Pine Hill | Maple View | Maple Hill | Hillcrest | Oakridge | Valley View | Pleasant Valley | Sunset Valley | Riverdale | Woodland Heights | Mountain View",
     "zipCodes": "21539",
     "address": "9 E MAIN ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "lusby-md": {
     "name": "Lusby",
@@ -20173,7 +20173,7 @@
     "neighbourhoods": "Chesapeake Ranch Estates | Drum Point | Cove Point | White Sands | Lusby Town Center | White Sands Forest | Calvert Beach | Chesapeake Heights | Mill Bridge | Parker Creek",
     "zipCodes": "20657",
     "address": "11575 LUSBY LN, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "lutherville-timonium-md": {
     "name": "Lutherville Timonium",
@@ -20270,7 +20270,7 @@
     "neighbourhoods": "Yorkshire | Orchard Hills | Pot Spring | Springlake | Mays Chapel | Seminary Park | Lutherville | Lutherville Heights | Timonium Heights | Fox Chapel | Chapel Hill | Wellington Valley | Wellington Valley North | Windwood",
     "zipCodes": "21093",
     "address": "9603 DEERECO RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "lothian-md": {
     "name": "Lothian",
@@ -20367,7 +20367,7 @@
     "neighbourhoods": "Bayard | Waysons Corner | Donovans Pier | Fairhaven | Harwood | Lothian | McKendree | Millersville | Rose Haven | Tracys Landing",
     "zipCodes": "20711",
     "address": "5471 SOUTHERN MARYLAND BLVD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "marion-station-md": {
     "name": "Marion Station",
@@ -20464,7 +20464,7 @@
     "neighbourhoods": "Marion Station Village | Cedar Hall | Loretto | Shelltown | Venton | Rehobeth | Mount Vernon | Lawsonia",
     "zipCodes": "21838",
     "address": "28530 HUDSON CORNER RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "manchester-md": {
     "name": "Manchester",
@@ -20561,7 +20561,7 @@
     "neighbourhoods": "Crossroads | Whispering Valley | Whispering Valley West | Manchester Farms | Waterford | Atlee Ridge | Whispering Valley East | Hammershire | Manchester Manor | Oakmont | Manchester Valley | Manchester Valley East",
     "zipCodes": "21102",
     "address": "3100 WESTMINSTER ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "marydel-md": {
     "name": "Marydel",
@@ -20658,7 +20658,7 @@
     "neighbourhoods": "Main Street | Delaware Avenue | Greensboro Road | Sudlersville Road | Marydel Road | Bethlehem Street | Bloomery Road | Barclay Road | Morton Road | Millington Road | Goldsboro Road.",
     "zipCodes": "21649",
     "address": "114 HALLTOWN RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "mardela-springs-md": {
     "name": "Mardela Springs",
@@ -20755,7 +20755,7 @@
     "neighbourhoods": "Oak Ridge | Cherry Walk Estates | Cherry Walk Meadows | Cherry Walk Woods | Harrison | Main Street | Collins Wharf | Gootee | Riverview | Walnut Tree | Whitehaven | Woodland Acres | Woodland Heights",
     "zipCodes": "21837",
     "address": "301 RAILROAD AVE, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "maugansville-md": {
     "name": "Maugansville",
@@ -20852,7 +20852,7 @@
     "neighbourhoods": "Wellington Trace | Country Club Estates | Greenberry Hills | Cedar Hills | Maugans Meadows | Paradise Manor | Valley Brook | Foxleigh Meadows | Colonial Park | Kenilworth Estates | Long Meadow | Maple Valley Estates | Northridge | Orchard Hills.",
     "zipCodes": "21767",
     "address": "13809 MAUGANSVILLE RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "marbury-md": {
     "name": "Marbury",
@@ -20949,7 +20949,7 @@
     "neighbourhoods": "Woodville | Potomac Heights | Pomonkey | Nanjemoy | Riverside | Marbury Village | Ironsides | Locust Grove | Chicamuxen | Ripley",
     "zipCodes": "20658",
     "address": "4570 BICKNELL RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "maryland-line-md": {
     "name": "Maryland Line",
@@ -21046,7 +21046,7 @@
     "neighbourhoods": "Maryland Line | Hereford | Monkton | Parkton | Freeland | Sparks | Cockeysville",
     "zipCodes": "21105",
     "address": "21400 YORK RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "mechanicsville-md": {
     "name": "Mechanicsville",
@@ -21143,7 +21143,7 @@
     "neighbourhoods": "Golden Beach | Oakville | Captain's | Lorraine | Wicomico Shores | Beachville | Bushwood | Loveville | Thompson Corner | Drayden",
     "zipCodes": "20659",
     "address": "28948 THREE NOTCH RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "middletown-md": {
     "name": "Middletown",
@@ -21240,7 +21240,7 @@
     "neighbourhoods": "Foxfield | Glenbrook | Glenbrook Estates | Longmeadow | Middletown Heights | Middletown Valley | Picnic Woods | South Mountain | Valley Vista",
     "zipCodes": "21769",
     "address": "7227 HOLLOW RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "mc-henry-md": {
     "name": "Mc Henry",
@@ -21337,7 +21337,7 @@
     "neighbourhoods": "Oakland | Deer Park | McHenry | Swanton | Thayerville | Kitzmiller | Mountain Lake Park | Crellin | Accident",
     "zipCodes": "21541",
     "address": "1914 DEEP CREEK DR, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "middle-river-md": {
     "name": "Middle River",
@@ -21434,7 +21434,7 @@
     "neighbourhoods": "Hawthorne | Martin Boulevard | Middle River Terrace | Aero Acres | Victory Villa | Carroll Island | Kingston Park | Wilson Point | Holly Neck | Riverlyn",
     "zipCodes": "21220",
     "address": "200 WILSON POINT RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "millersville-md": {
     "name": "Millersville",
@@ -21531,7 +21531,7 @@
     "neighbourhoods": "Shipley's Choice | Olde Mill | Shipleys Crossing | Point Field Landing | Severn Landing | Severndale | Chartwell | Brightwood | Ben Oaks | Severna Park Village | Magothy Estates | Benfield Manor | Wetheridge Estates | Old Severna Park",
     "zipCodes": "21108",
     "address": "221 NAJOLES RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "mayo-md": {
     "name": "Mayo",
@@ -21628,7 +21628,7 @@
     "neighbourhoods": "Selby-on-the-Bay | Shady Side | Beverly Beach | Deale | Galesville | Fairhaven | Mayo Beach | Glebe Heights | Turkey Point | Franklin Manor",
     "zipCodes": "21106",
     "address": "1157 MAYO RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "midlothian-md": {
     "name": "Midlothian",
@@ -21725,7 +21725,7 @@
     "neighbourhoods": "Sagamore Forest | Manor Oaks | Woodbrook | Normandy Heights | Greenwood | Dunbar | Greenbriar at Waverly | Gwynnbrook | Brantwood | Rockdale | Locksley Hall | Hunt Club Estates",
     "zipCodes": "21543",
     "address": "19911 OLD MIDLOTHIAN RD SW, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "millington-md": {
     "name": "Millington",
@@ -21822,7 +21822,7 @@
     "neighbourhoods": "Millington Estates | Millington Manor | Millington Meadows | Millington Station | Millington Woods | Millington Ridge | Millington Farms | Millington Landing | Millington Lakes | Millington Greens.",
     "zipCodes": "21651",
     "address": "412 CYPRESS ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "montgomery-village-md": {
     "name": "Montgomery Village",
@@ -21919,7 +21919,7 @@
     "neighbourhoods": "Meadowgate | Whetstone | Goshen | Stedwick | The Points | Normandie | Watkins Mill | Dockside | Millrace | Shadow Oak | Montgomery Village Avenue | Center Ridge | Apple Ridge | The Reach",
     "zipCodes": "20886",
     "address": "10079 STEDWICK RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "monrovia-md": {
     "name": "Monrovia",
@@ -22016,7 +22016,7 @@
     "neighbourhoods": "Woodfield | Copper Oaks | Harvest Ridge | Monrovia Village | Stone Barn Village | Landsdale | Melstone Valley | Clear Spring Park | Glenbrook | Farmettes at Monrovia | Spruce Meadows | Park Ridge",
     "zipCodes": "21770",
     "address": "4411 GREEN VALLEY RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "morganza-md": {
     "name": "Morganza",
@@ -22113,7 +22113,7 @@
     "neighbourhoods": "Buckler | Cedar Point | Dameron | Hays Beach | Hughesville | Loveville | Morganza | Oakley | Valley Lee",
     "zipCodes": "20660",
     "address": "39600 DOCTOR JOHNSON RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "monkton-md": {
     "name": "Monkton",
@@ -22210,7 +22210,7 @@
     "neighbourhoods": "Monkton Village | Glencoe | Monkton Farms | Merrywood | My Lady's Manor | Monkton Ridge | Pinehurst | Wesley Chapel | Gunpowder | Hereford Zone | Windemere | White Hall | Rayville",
     "zipCodes": "21111",
     "address": "16944 YORK RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "mount-savage-md": {
     "name": "Mount Savage",
@@ -22307,7 +22307,7 @@
     "neighbourhoods": "Cresaptown | Bowling Green | Bel Air | Midland | Eckhart Mines | Zihlman | Frostburg | Ellerslie | La Vale | Corriganville",
     "zipCodes": "21545",
     "address": "12700 NEW SCHOOL RD NW, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "mount-airy-md": {
     "name": "Mount Airy",
@@ -22404,7 +22404,7 @@
     "neighbourhoods": "Watkins Park | Pleasant View | Twin Arch Crossing | Nottingham | Summit Ridge | Legacy Farm | Wildwood Park | Parrs Ridge | Braddock Ridge | Harvest Ridge",
     "zipCodes": "21771",
     "address": "505 WINDY KNOLL DR, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "myersville-md": {
     "name": "Myersville",
@@ -22501,7 +22501,7 @@
     "neighbourhoods": "Fountain Rock | Highland | Harmony | Church Hill | Wolfsville | Ellerton | Ellerton Heights | Foxville | Gapland | Middletown Valley | Pleasant Walk | Myersville Town Center",
     "zipCodes": "21773",
     "address": "1 WOLFSVILLE RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "mount-victoria-md": {
     "name": "Mount Victoria",
@@ -22598,7 +22598,7 @@
     "neighbourhoods": "North End | South End | East Side | West Side | Hillcrest | Pleasant Valley | Mount Airy | Valley View | Oakwood | Highland Park",
     "zipCodes": "20661",
     "address": "12085 MOUNT VICTORIA RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "nanjemoy-md": {
     "name": "Nanjemoy",
@@ -22695,7 +22695,7 @@
     "neighbourhoods": "Hawthorne | Ripley | Colonial Square | Riverwood | Friendship Landing | Pomonkey | Riverside | Goldenville | Durham | Nanjemoy Creek | Gilbert Run | Marbury",
     "zipCodes": "20662",
     "address": "9365 BEAVERDAM RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "new-market-md": {
     "name": "New Market",
@@ -22792,7 +22792,7 @@
     "neighbourhoods": "Lake Linganore | Aspen | Royal Oaks | Westwinds | The Meadows | Greenfield | The Preserve | Eaglehead | The Highlands | The Hamptons",
     "zipCodes": "21774",
     "address": "168 W MAIN ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "new-windsor-md": {
     "name": "New Windsor",
@@ -22889,7 +22889,7 @@
     "neighbourhoods": "Cedar Ridge | Atlee Ridge | Ridgely Park | Springdale Village | Charnita | Atlee Court | Kali Drive | Bonita | Ridge Road | Oak Tree Village.",
     "zipCodes": "21776",
     "address": "204 MAPLE AVE, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "new-midway-md": {
     "name": "New Midway",
@@ -22986,7 +22986,7 @@
     "neighbourhoods": "Pleasant Walk | Graceham | Ladiesburg | Creagerstown | Rocky Ridge",
     "zipCodes": "21775",
     "address": "12048A WOODSBORO PIKE, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "nanticoke-md": {
     "name": "Nanticoke",
@@ -23083,7 +23083,7 @@
     "neighbourhoods": "Ridgefield | Riverview | Maplewood | Oakwood | Pinehurst | Green Acres | Woodland Heights | Spring Valley | Meadowbrook | Lakeside | Brookwood | Riverdale | Sunset Hills | Fairview",
     "zipCodes": "21840",
     "address": "20501 NANTICOKE RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "newburg-md": {
     "name": "Newburg",
@@ -23180,7 +23180,7 @@
     "neighbourhoods": "Springfield | Sherwood | Beverly Hills | Hickory Ridge | Red Hill | Cliffton | Wicomico Shores | Berry Hill | Stonestreet",
     "zipCodes": "20664",
     "address": "12179 ROCK POINT RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "north-east-md": {
     "name": "North East",
@@ -23277,7 +23277,7 @@
     "neighbourhoods": "Charlestown | Elk Neck | Red Point | Rolling Mill | Pine Valley | Chesapeake Isle | Bay View | North East Isles | North East Park | Bay Club",
     "zipCodes": "21901",
     "address": "406 S MAIN ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "newark-md": {
     "name": "Newark",
@@ -23374,7 +23374,7 @@
     "neighbourhoods": "Cedarwood | Maplewood | Woodland Park | Brandywine Village | Brookside | Lower Broadway | North Broadway | South Broadway | The Flats | University Heights",
     "zipCodes": "21841",
     "address": "8420 NEWARK RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "north-beach-md": {
     "name": "North Beach",
@@ -23471,7 +23471,7 @@
     "neighbourhoods": "Bay Highlands | Drum Point | Chesapeake Ranch Estates | Windward Key | Long Beach | Herrington Harbor | Holland Cliffs | Cove of Calvert | Chesapeake Station | San Francisco | Ocean City | Monterey | Telegraph Hill",
     "zipCodes": "20714",
     "address": "9132A BAY AVE, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "nottingham-md": {
     "name": "Nottingham",
@@ -23568,7 +23568,7 @@
     "neighbourhoods": "Belair-Edison | Cedmont | Frankford | Glenham-Belford | Hamilton Hills | Lauraville | Overlea | Parkville | Perry Hall | Rosedale",
     "zipCodes": "21236",
     "address": "4990 MERCANTILE RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "oakland-md": {
     "name": "Oakland",
@@ -23665,7 +23665,7 @@
     "neighbourhoods": "Glenwood | Mountain Lake Park | Crellin | Deer Park | Swanton | Loch Lynn Heights | Hutton | Gorman | Shallmar | Thayerville",
     "zipCodes": "21550",
     "address": "22 S 2ND ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "newcomb-md": {
     "name": "Newcomb",
@@ -23762,7 +23762,7 @@
     "neighbourhoods": "Piney Point | Tall Timbers | Valley Lee | Drayden | Ridge | Saint Marys City | Scotland | Callaway | Great Mills | Lexington Park | California | Leonardtown | Hollywood",
     "zipCodes": "21653",
     "address": "7414 BACK ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "ocean-city-md": {
     "name": "Ocean City",
@@ -23859,7 +23859,7 @@
     "neighbourhoods": "Downtown | Midtown | West Ocean City | Caine Woods | Montego Bay | Little Salisbury | North Ocean City | Ocean Pines | Bayside Ocean City | Glen Riddle | Isle of Wight",
     "zipCodes": "21842",
     "address": "408 PHILADELPHIA AVE, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "olney-md": {
     "name": "Olney",
@@ -23956,7 +23956,7 @@
     "neighbourhoods": "Hallowell | Olney Mill | Cherrywood | Cashell Estates | James Creek | Norbeck Grove | Barnsley Manor Estates | Oatland Farm | Olney Oaks | Norbeck Manor | Williamsburg Village | Brooke Manor",
     "zipCodes": "20832",
     "address": "3570 OLNEY LAYTONSVILLE RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "odenton-md": {
     "name": "Odenton",
@@ -24053,7 +24053,7 @@
     "neighbourhoods": "Piney Orchard | Seven Oaks | Chapel Grove | Kings Heights | Lions Gate | Provinces | Four Seasons | Patuxent Woods | Kings Ransom | Kings Heights West.",
     "zipCodes": "21113",
     "address": "1177 ANNAPOLIS RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "oldtown-md": {
     "name": "Oldtown",
@@ -24150,7 +24150,7 @@
     "neighbourhoods": "East End | West End | Riverside | Historic District | Harborview | Waterfront | Northside | Southside | Parkside | Central Park",
     "zipCodes": "21555",
     "address": "19104 OPESSA ST SE, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "owings-md": {
     "name": "Owings",
@@ -24247,7 +24247,7 @@
     "neighbourhoods": "Merrill | Tanyard Springs | Owings Beach | Lyons Creek | Fairview | Aquasco | Wootons Landing | Lower Marlboro | Sunderland | Skinners Turn | Mount Harmony | Dunkirk Forest | Windward Key",
     "zipCodes": "20736",
     "address": "9440 OLD SOLOMONS ISLAND RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "oxford-md": {
     "name": "Oxford",
@@ -24344,7 +24344,7 @@
     "neighbourhoods": "Oxford Village | Sailing Point | Ferry Dock | Parson's Island | Jack's Point | The Strand | Town Creek | Royal Oak | Trippe's Point",
     "zipCodes": "21654",
     "address": "101 WILSON ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "oxon-hill-md": {
     "name": "Oxon Hill",
@@ -24441,7 +24441,7 @@
     "neighbourhoods": "Glassmanor | Forest Heights | Indian Queen Estates | Oxon Hill Manor | South Lawn | Bald Eagle | River Ridge | Fort Foote Village | Warburton Oaks | Glassmanor-Potomac Heights | The Highlands | Forest Haven | Valley View | Friendly Hills | Barnaby Manor Oaks",
     "zipCodes": "20745",
     "address": "6316 OXON HILL RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "parkville-md": {
     "name": "Parkville",
@@ -24538,7 +24538,7 @@
     "neighbourhoods": "Oakleigh | Harford Park | Perring Loch | Hillendale | Ridgeleigh | Taylor Heights | Joppa Heights | Linhigh | Parkville Heights | Ridgeleigh Community | Ridgeleigh Heights | Ridgeleigh Manor | Ridgeleigh Park | Ridgeleigh Springs",
     "zipCodes": "21234",
     "address": "8201 HARFORD RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "park-hall-md": {
     "name": "Park Hall",
@@ -24635,7 +24635,7 @@
     "neighbourhoods": "Oakwood | Oakhill | Foxchase | Meadowbrook | Spring Valley | Greenbriar | Summerfield | Briarwood | Sunset Ridge | Pinehurst",
     "zipCodes": "20667",
     "address": "18400 POINT LOOKOUT RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "owings-mills-md": {
     "name": "Owings Mills",
@@ -24732,7 +24732,7 @@
     "neighbourhoods": "Timber Grove | Lyonswood | Garrison Forest | Worthington Park | McDonogh Park | Owings Mills Village | Owings Ridge | Academy Meadows | Park Center | Velvet Valley | Quail Meadows | Owings Mills Estates",
     "zipCodes": "21117",
     "address": "10821 RED RUN BLVD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "parkton-md": {
     "name": "Parkton",
@@ -24829,7 +24829,7 @@
     "neighbourhoods": "Hereford | Monkton | White Hall | Bentley Springs | Parkton | Freeland | Maryland Line | Wiseburg | Blue Mount",
     "zipCodes": "21120",
     "address": "645 HAPPY LN, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "parsonsburg-md": {
     "name": "Parsonsburg",
@@ -24926,7 +24926,7 @@
     "neighbourhoods": "Coulbourne Mill | Logtown | Parsonsburg | Powelville",
     "zipCodes": "21849",
     "address": "7237 PARSONSBURG RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "perry-hall-md": {
     "name": "Perry Hall",
@@ -25023,7 +25023,7 @@
     "neighbourhoods": "Silver Woods | Perry Hall Farms | Forge Acres | Sunshine Acres | Forge Heights | Honeygo Village | Perry Hall Estates | Perry Hall Meadows | Silver Ridge | Perry Hall Courts | Perry Hall Manor | Perry Hall Station | Chapel Hill",
     "zipCodes": "21128",
     "address": "8744 BELAIR RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "patuxent-river-md": {
     "name": "Patuxent River",
@@ -25120,7 +25120,7 @@
     "neighbourhoods": "Broomes Island | Calvert Beach | Chesapeake Ranch Estates | Chesapeake Heights | Dowell | Drum Point | Lusby | Port Republic | Prince Frederick | St. Leonard",
     "zipCodes": "20670",
     "address": "459 CEDAR POINT RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "pasadena-md": {
     "name": "Pasadena",
@@ -25217,7 +25217,7 @@
     "neighbourhoods": "Green Haven | Chelsea Beach | Freetown | Pasadena Beach | Sunset Beach | Rock Creek Park | North Shore Forest | Chesterfield | Whispering Woods | Powhatan Beach",
     "zipCodes": "21122",
     "address": "4301 MOUNTAIN RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "perryman-md": {
     "name": "Perryman",
@@ -25314,7 +25314,7 @@
     "neighbourhoods": "Aiken Avenue | Baldwin Hills | Berkley Road | Holly Drive | Long Bar Harbor | Perryman Road | Riverside Drive | Spesutie Island | Taylor Road.",
     "zipCodes": "21130",
     "address": "428 MICHAELSVILLE RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "perryville-md": {
     "name": "Perryville",
@@ -25411,7 +25411,7 @@
     "neighbourhoods": "Cecil Woods | Beacon Point | Beacon Point East | Beacon Point West | Carpenters Point | Chapel Heights | Charlestown Crossing | Charlestown Manor | Charlestown Manor West | Chesapeake Isles | Chesapeake Landing | Chesapeake Overlook | Chesapeake View | Country Manor | Creekside Village",
     "zipCodes": "21903",
     "address": "620 BROAD ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "perry-point-md": {
     "name": "Perry Point",
@@ -25508,7 +25508,7 @@
     "neighbourhoods": "Perryville | Havre de Grace | Port Deposit | Aberdeen | Bel Air | Edgewood | Elkton | North East | Rising Sun | Joppatowne",
     "zipCodes": "21902",
     "address": "0 AVENUE D BLDG 64, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "pikesville-md": {
     "name": "Pikesville",
@@ -25605,7 +25605,7 @@
     "neighbourhoods": "Green Gate | Stevenson Village | Stevenson Crossing | Anton North | Milford Mill | Willow Glen | Long Meadow | Pickwick | Anton Woods | Grey Rock | Silver Creek | McDonogh | Garrison Forest | Summit Chase | Queen Anne Village",
     "zipCodes": "21208 | 21282",
     "address": "1325 BEDFORD AVE, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "phoenix-md": {
     "name": "Phoenix",
@@ -25702,7 +25702,7 @@
     "neighbourhoods": "Hillendale | Phoenix | Blenheim | Windemere | Old York Manor | Sweet Air | Sunnybrook",
     "zipCodes": "21131",
     "address": "14320 JARRETTSVILLE PIKE, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "piney-point-md": {
     "name": "Piney Point",
@@ -25799,7 +25799,7 @@
     "neighbourhoods": "White Point Beach | Tall Timbers | Clark's Landing | Piney Point Beach | Piney Point Shores | Piney Point Woods | Piney Point Village | Piney Point Estates",
     "zipCodes": "20674",
     "address": "17160 PINEY POINT RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "pomfret-md": {
     "name": "Pomfret",
@@ -25896,7 +25896,7 @@
     "neighbourhoods": "Brookfield | Cedarville | Poplar Hill | Cedar Lane | Edelen | Spring Grove | Mount Victoria | Willett | Locust Grove | Ashford | Friendship Acres | Marbella | Redwood Forest | Grayton | Harmony Hills",
     "zipCodes": "20675",
     "address": "8205 MARSHALL CORNER RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "pittsville-md": {
     "name": "Pittsville",
@@ -25993,7 +25993,7 @@
     "neighbourhoods": "Maplewood | Whispering Pines | White Creek | Woodland | Pinehurst | Green Meadows | Oakdale | Meadowbrook | Pleasant View | Autumn Ridge",
     "zipCodes": "21850",
     "address": "7390 PINE ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "pinto-md": {
     "name": "Pinto",
@@ -26090,7 +26090,7 @@
     "neighbourhoods": "Pleasant Valley | Spring Valley | Willowbrook | Pinewood | Oakridge | Cedar Grove | Rolling Hills | Maplewood | Forest Hills | Sunnyside.",
     "zipCodes": "21556",
     "address": "16111 MCMULLEN HWY, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "pocomoke-city-md": {
     "name": "Pocomoke City",
@@ -26187,7 +26187,7 @@
     "neighbourhoods": "Downtown | Midtown | West Side | East Side | North End | South End | Riverside | Elm Street | Springhill | Cypress Street | Market Street | Laurel Street | Linden Avenue | Locust Street",
     "zipCodes": "21851",
     "address": "207 MARKET ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "poolesville-md": {
     "name": "Poolesville",
@@ -26284,7 +26284,7 @@
     "neighbourhoods": "Seneca Chase | Stoney Springs | Brightwell Crossing | Wootton Oaks | Westerly | Seneca View | Poolesville Heights",
     "zipCodes": "20837",
     "address": "19820 FISHER AVE, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "point-of-rocks-md": {
     "name": "Point Of Rocks",
@@ -26381,7 +26381,7 @@
     "neighbourhoods": "Catoctin View | Canal Run | Carriage Hill | Fernbrook | Federal Hill | Stockman | Blue Heron Estates | Cannon Bluff | Furnace Mountain | Hillview | White Rock | Signal Hill | Spring Hollow",
     "zipCodes": "21777",
     "address": "1597 BOWIS DR, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "preston-md": {
     "name": "Preston",
@@ -26478,7 +26478,7 @@
     "neighbourhoods": "Easton | Hurlock | Federalsburg | Ridgely | Denton | St. Michaels | Cambridge | Trappe | Oxford | Vienna",
     "zipCodes": "21655",
     "address": "301 MAIN ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "princess-anne-md": {
     "name": "Princess Anne",
@@ -26575,7 +26575,7 @@
     "neighbourhoods": "Woodbrooke | Foxchase | Southern Fields | Asbury Meadows | West Creek Village | Meadow Bridge | Cedar Commons | Whitehaven | Kings Creek | Arden | Coventry Square | Marley Manor | Village Down River | Stone Grove Crossing",
     "zipCodes": "21853",
     "address": "11690 SOMERSET AVE, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "port-tobacco-md": {
     "name": "Port Tobacco",
@@ -26672,7 +26672,7 @@
     "neighbourhoods": "Beantown | Chapel Point | Port Tobacco Village | Mallows Bay | Chapel Point Woods | Chapel Point Estates | Southwinds | Hunters Brooke | Chandler's Town | Hunters Brooke Manor | Chandler's Town Estates | Chandler's Town Village | Chandler's Town Acres | Chandler's Town Point",
     "zipCodes": "20677",
     "address": "8200 PORT TOBACCO RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "prince-frederick-md": {
     "name": "Prince Frederick",
@@ -26769,7 +26769,7 @@
     "neighbourhoods": "Calvert Towne | College Station | College Heights | Armory Square | Windward Key | Windmill Square | Whispering Woods | Dares Beach | Fox Field | Broomes Island",
     "zipCodes": "20678",
     "address": "35 DUKE ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "port-deposit-md": {
     "name": "Port Deposit",
@@ -26866,7 +26866,7 @@
     "neighbourhoods": "Bainbridge | Furnace Bay | Marina Park | Port | Port Rock | Red Toad Road | Rowlandsville | Stafford Road | Town Point",
     "zipCodes": "21904",
     "address": "11 S MAIN ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "pylesville-md": {
     "name": "Pylesville",
@@ -26963,7 +26963,7 @@
     "neighbourhoods": "Pylesville Village | Laurel Brook | Clermont Mill | Heaps Mill | Norrisville | Rocks | Street | Whiteford | Dublin | Graceton | Fawn Grove | Cardiff",
     "zipCodes": "21132",
     "address": "3965 ADY RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "potomac-md": {
     "name": "Potomac",
@@ -27060,7 +27060,7 @@
     "neighbourhoods": "Falls Orchard | River Falls | Avenel | Inverness Forest | McAuley Park | Willerburn Acres | Horizon Hill | Piney Glen Village | Bedfordshire | Regency Estates | Merry-Go-Round Farm | Potomac Manors | Carderock Springs | Normandie Lake",
     "zipCodes": "20854",
     "address": "10221 RIVER RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "port-republic-md": {
     "name": "Port Republic",
@@ -27157,7 +27157,7 @@
     "neighbourhoods": "Broomes Island | Scientists Cliffs | Long Beach | Mill Cove | Calvert Beach | Parkers Creek | Cove Point | Williams Wharf | St. Leonard | Drum Point",
     "zipCodes": "20676",
     "address": "3000 SAINT LEONARD RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "randallstown-md": {
     "name": "Randallstown",
@@ -27254,7 +27254,7 @@
     "neighbourhoods": "Granite | Deer Park | Kings Point | McDonogh | Liberty Road | Mayfield | Stoneybrook | Brenbrook | Foxridge | Mays Chapel | Windsor Mill | Old Court | Milford Mill",
     "zipCodes": "21133",
     "address": "3608 OFFUTT RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "rawlings-md": {
     "name": "Rawlings",
@@ -27351,7 +27351,7 @@
     "neighbourhoods": "Fairview | Woodland | Cedar Point | Spring Valley | Ridgeview | Green Acres | Oak Hill | Meadowbrook | Pinecrest | Sunnydale",
     "zipCodes": "21557",
     "address": "19000 MCMULLEN HWY SW, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "queen-anne-md": {
     "name": "Queen Anne",
@@ -27448,7 +27448,7 @@
     "neighbourhoods": "Bay City | Spider Hall | Carmichael | Queenstown | Romancoke | Bloomingdale | Cloverfields | Kent Island Estates | Thompson Creek | Bennett Point",
     "zipCodes": "21657",
     "address": "32209 PARK AVE, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "reisterstown-md": {
     "name": "Reisterstown",
@@ -27545,7 +27545,7 @@
     "neighbourhoods": "Chartley | Glyndon | Worthington Glen | Brookshire | Cherry Valley | Hannah Park | Crandon | Brookfield | Garrison Overlook | Franklin Valley.",
     "zipCodes": "21136",
     "address": "5 GLYNDON DR, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "quantico-md": {
     "name": "Quantico",
@@ -27642,7 +27642,7 @@
     "neighbourhoods": "Pinefield | Breckenridge | Quantico Creek Estates | Brentwood | Misty Creek | Indian Branch | Wellington Beach | Whitehaven | Whitehaven Beach | Holly Ridge | Quantico Village | Wicomico Village",
     "zipCodes": "21856",
     "address": "6300 CHERRY WALK RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "queenstown-md": {
     "name": "Queenstown",
@@ -27739,7 +27739,7 @@
     "neighbourhoods": "Lake Cove | Queenstown Village | Benton's Pleasure | Queenstown Harbor | Cove Creek Club | Bennett Point | Queen Anne Colony | Taylor's Island | Queenstown Heights | Queenstown Landing | Queenstown Woods | Queenstown Station | Wye Harbor | Queenstown Lakes",
     "zipCodes": "21658",
     "address": "7100 MAIN ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "rhodesdale-md": {
     "name": "Rhodesdale",
@@ -27836,7 +27836,7 @@
     "neighbourhoods": "Hurst Neck | Rhodesdale | Salem | Secretary | Vienna | Linkwood | East New Market | Eldorado | Brookview | Easton Village | Algonquin | Preston | Federalsburg | Seaford",
     "zipCodes": "21659",
     "address": "5664 RHODESDALE VIENNA RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "ridgely-md": {
     "name": "Ridgely",
@@ -27933,7 +27933,7 @@
     "neighbourhoods": "Choptank | Maplewood | Linchester | Peach Blossom | Taylor's Island | Houston Branch | White Marsh | Poplar Neck | Hillsboro | Bethlehem | Willow Grove.",
     "zipCodes": "21660",
     "address": "502 MARYLAND AVE, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "rising-sun-md": {
     "name": "Rising Sun",
@@ -28030,7 +28030,7 @@
     "neighbourhoods": "Fairview | Greenfield | Woodlea | Whitaker Park | Rising Sun Village | Nottingham Meadows | Quaker Hills | Rising Sun Estates | Calvert | Hickory Hills.",
     "zipCodes": "21911",
     "address": "105 N WALNUT ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "ridge-md": {
     "name": "Ridge",
@@ -28127,7 +28127,7 @@
     "neighbourhoods": "Bay Ridge | Golden Beach | Town Creek | Drum Point | Chesapeake Ranch Estates | Chesapeake Heights | Calvert Beach | Chesapeake Village | Cove Point | Long Beach | St. Leonard | Scientists Cliffs",
     "zipCodes": "20680",
     "address": "13274 POINT LOOKOUT RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "riva-md": {
     "name": "Riva",
@@ -28224,7 +28224,7 @@
     "neighbourhoods": "Ward 1 | Ward 2 | Ward 3 | Ward 4 | Ward 5 | Ward 6 | Ward 7 | Ward 8",
     "zipCodes": "21140",
     "address": "3123 RIVA RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "riderwood-md": {
     "name": "Riderwood",
@@ -28321,7 +28321,7 @@
     "neighbourhoods": "Mays Chapel | Lutherville | Timonium | Cockeysville | Towson | Phoenix | Parkville | Carney | Perry Hall | Hunt Valley",
     "zipCodes": "21139",
     "address": "8016 BELLONA AVE, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "riverdale-md": {
     "name": "Riverdale",
@@ -28418,7 +28418,7 @@
     "neighbourhoods": "Eastpines | Beacon Heights | East Riverdale | Riverdale Park | Beacon Hill | Templeton Knolls | Madison Hill | Riverdale Gardens | East Riverdale Heights | Riverdale Heights",
     "zipCodes": "20737",
     "address": "6411 BALTIMORE AVE, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "rock-hall-md": {
     "name": "Rock Hall",
@@ -28515,7 +28515,7 @@
     "neighbourhoods": "Bay Shores | Rock Hall Village | Swan Creek | Green Point | Neck District | Fairlee | Rock Hall Harbor | Beach Haven | Grays Inn Creek | Collins Point",
     "zipCodes": "21661",
     "address": "5691 LIBERTY ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "rockville-md": {
     "name": "Rockville",
@@ -28612,7 +28612,7 @@
     "neighbourhoods": "King Farm | Rockville Town Square | East Rockville | Twinbrook | West End | New Mark Commons | Hungerford | Lincoln Park | Derwood | Woodley Gardens | Fallsmead | Manor Woods | Rockcrest | College Gardens",
     "zipCodes": "20850 | 20851 | 20852",
     "address": "5056 NICHOLSON LN STE B, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "rosedale-md": {
     "name": "Rosedale",
@@ -28709,7 +28709,7 @@
     "neighbourhoods": "Essex | Rossville | Golden Ring | Middle River | White Marsh | Overlea | Rosedale | Nottingham | Bowleys Quarters",
     "zipCodes": "21237",
     "address": "7000 GOLDEN RING RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "saint-leonard-md": {
     "name": "Saint Leonard",
@@ -28806,7 +28806,7 @@
     "neighbourhoods": "Calvert Beach | Long Beach | Saint Leonard Shores | Calvert Beach Estates | Calvert Heights | Calvert Beach Park | Long Beach Estates | Beaches | Flag Harbor | Saint Leonard | Calvert | Lyons Creek | Calvert Cliffs",
     "zipCodes": "20685",
     "address": "4244 SAINT LEONARD RD STE 100, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "rocky-ridge-md": {
     "name": "Rocky Ridge",
@@ -28903,7 +28903,7 @@
     "neighbourhoods": "Rocky Ridge Village | Detour | Keysville | Fountaindale | Highland | Blue Ridge Acres | Glade Village | Smithsburg | Sabillasville",
     "zipCodes": "21778",
     "address": "13516 MOTTERS STATION RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "sabillasville-md": {
     "name": "Sabillasville",
@@ -29000,7 +29000,7 @@
     "neighbourhoods": "Cascade | Foxville | Highfield-Cascade | Sabillasville | Smithsburg",
     "zipCodes": "21780",
     "address": "17235 SABILLASVILLE RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "royal-oak-md": {
     "name": "Royal Oak",
@@ -29097,7 +29097,7 @@
     "neighbourhoods": "Oaklands | Belle Point | Beverly Beach | Royal Oak | Tunis Mills | Trippe | Rio Vista | Baileys Neck | Easton Village | Easton Club East | Easton Club West | Cooke's Hope",
     "zipCodes": "21662",
     "address": "25897 ROYAL OAK RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "saint-inigoes-md": {
     "name": "Saint Inigoes",
@@ -29194,7 +29194,7 @@
     "neighbourhoods": "Town Creek | St. Inigoes | Piney Point | Ridge | Clark's Landing | St. George Island",
     "zipCodes": "20684",
     "address": "15066 POINT LOOKOUT RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "saint-marys-city-md": {
     "name": "Saint Marys City",
@@ -29291,7 +29291,7 @@
     "neighbourhoods": "Point Lookout | Sandy Bottom | St. George Island | Breton Bay | St. Mary's City | Greenview | St. Inigoes | Town Creek | Park Hall | Ridge | Valley Lee",
     "zipCodes": "20686",
     "address": "16855 POINT LOOKOUT RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "saint-michaels-md": {
     "name": "Saint Michaels",
@@ -29388,7 +29388,7 @@
     "neighbourhoods": "Talbot Street | Navy Point | Perry Cabin | Easton Village | Martingham | Rio Vista | St. Michaels Harbor | Mariners Cove | San Domingo Creek | Back Creek | Claiborne | Newcomb | Carpenter Street Village",
     "zipCodes": "21663",
     "address": "303 S TALBOT ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "sandy-spring-md": {
     "name": "Sandy Spring",
@@ -29485,7 +29485,7 @@
     "neighbourhoods": "Ashton | Hampshire Greens | Ashton Manor | Woodland | Sandy Spring Village | Norwood | Ednor | Olney Square | Norbeck Meadows | Hallowell | Poplar Run | Manor Oaks | Woodlawn | Olney Mill.",
     "zipCodes": "20860",
     "address": "901 OLNEY SANDY SPRING RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "salisbury-md": {
     "name": "Salisbury",
@@ -29582,7 +29582,7 @@
     "neighbourhoods": "Newtown | Camden | Riverside | Church Hill | Johnson Lake | Unionville | Southhaven | Coulbourn Mill | Canal Woods | Harbor Pointe",
     "zipCodes": "21801 | 21803",
     "address": "816 E SALISBURY PKWY, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "savage-md": {
     "name": "Savage",
@@ -29679,7 +29679,7 @@
     "neighbourhoods": "Baldwin Hills | Foxhill | Greenwood | Leishear Village | Linwood | Ridgewood | Rockburn Commons | Savage | Savage Mill | Savage Mills | Shipley | St. George's | St. John's Village | Swan Drive | Vollmerhausen",
     "zipCodes": "20763",
     "address": "8926 BALTIMORE ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "severn-md": {
     "name": "Severn",
@@ -29776,7 +29776,7 @@
     "neighbourhoods": "The Provinces | Harmans | Still Meadows | Severn Forest | Thompson Farms | Severn Pines | Severn Woods | Provinces | Harmans Woods | Elmhurst",
     "zipCodes": "21144",
     "address": "819 REECE RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "secretary-md": {
     "name": "Secretary",
@@ -29873,7 +29873,7 @@
     "neighbourhoods": "Whittington | Nanticoke | Riverview | Sandy Hill | Athol | Choptank | Rockawalkin | Anthony | Allen | Whitehaven | Spring Hill | Mount Pleasant | Rewastico | West Side | Quantico Creek",
     "zipCodes": "21664",
     "address": "145 MAIN ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "shady-side-md": {
     "name": "Shady Side",
@@ -29970,7 +29970,7 @@
     "neighbourhoods": "Fairhaven | Columbia Beach | Avalon Shores | West Shoreham | Snug Harbor | Highland Beach | Galesville | Turkey Point | Masons Beach | Londontowne | Holly Hill Harbor",
     "zipCodes": "20764",
     "address": "6160 SHADY SIDE RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "sharpsburg-md": {
     "name": "Sharpsburg",
@@ -30067,7 +30067,7 @@
     "neighbourhoods": "Potomac View | Fairview | Valley View | Chestnut Grove | Rock Hall | River Bend | Canal Run | Taylorstown | Mills Road | Clopper Road | Feigley Road | Millers Sawmill | Trego Creek | Harpers Ferry Street.",
     "zipCodes": "21782",
     "address": "118 E CHAPLINE ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "severna-park-md": {
     "name": "Severna Park",
@@ -30164,7 +30164,7 @@
     "neighbourhoods": "Chartwell | Manhattan Beach | Berrywood | Ben Oaks | Round Bay | Kensington | Olde Severna Park | Cypress Creek | Linstead | Severndale | Cape Arthur | Mago Vista | Belleview Estates | Severna Forest",
     "zipCodes": "21146",
     "address": "21 MAGOTHY BRIDGE RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "silver-spring-md": {
     "name": "Silver Spring",
@@ -30261,7 +30261,7 @@
     "neighbourhoods": "Woodside | Forest Glen | Four Corners | Colesville | White Oak | Burnt Mills | Northwood Park | Wheaton-Glenmont | Kemp Mill | Glenmont | Calverton | Cloverly",
     "zipCodes": "20901 | 20902 | 20904 | 20906 | 20910",
     "address": "110 UNIVERSITY BLVD W, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "sharptown-md": {
     "name": "Sharptown",
@@ -30358,7 +30358,7 @@
     "neighbourhoods": "Beechwood | Whitehaven | Tyaskin | Nanticoke | Rockawalkin | Quantico | Athol | Wetipquin | Waterview | Jesterville",
     "zipCodes": "21861",
     "address": "403 4TH ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "smithsburg-md": {
     "name": "Smithsburg",
@@ -30455,7 +30455,7 @@
     "neighbourhoods": "Town Center | Edgemont | Meadowbrook | Whispering Hills | Foxville | Greenfield | Ravenwood | Cloverleaf | Spring Valley | Maple View",
     "zipCodes": "21783",
     "address": "43 GROVE LN, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "snow-hill-md": {
     "name": "Snow Hill",
@@ -30552,7 +30552,7 @@
     "neighbourhoods": "Downtown | Northwood | South Point | Piney Branch | Meadow Brook | Shad Point | Sandy Hill | High Banks | Old Worcester | Westover Hills | Green Hill | Cedar Run | Stockton | New Hope",
     "zipCodes": "21863",
     "address": "306 N WASHINGTON ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "sparks-glencoe-md": {
     "name": "Sparks Glencoe",
@@ -30649,7 +30649,7 @@
     "neighbourhoods": "Northwood | Woodensburg | Sparks | Glencoe | Phoenix | Hereford | Parkton | Monkton",
     "zipCodes": "21152",
     "address": "14800 YORK RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "simpsonville-md": {
     "name": "Simpsonville",
@@ -30746,7 +30746,7 @@
     "neighbourhoods": "Gorman Road | Peachtree | Simpsonville Center | Warfield | Willowood | Strawbridge | Hunt Valley | St. John's Lane | Brightfield | Carriage Crossing",
     "zipCodes": "21150",
     "address": "10400 SHAKER DR, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "stevenson-md": {
     "name": "Stevenson",
@@ -30843,7 +30843,7 @@
     "neighbourhoods": "Stevenson Village | Greenspring Valley | Worthington Valley | Brooklandville | Caves Valley | Bedford | Riderwood | Pikesville | Glyndon | Garrison Forest",
     "zipCodes": "21153",
     "address": "10421 STEVENSON RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "solomons-md": {
     "name": "Solomons",
@@ -30940,7 +30940,7 @@
     "neighbourhoods": "Solomons Island | Drum Point | Back Creek | Patuxent Palisades | White Sands | Mill Creek | Lusby | California | Dowell | Drum Point Beach",
     "zipCodes": "20688",
     "address": "13946 HG TRUEMAN RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "suitland-md": {
     "name": "Suitland",
@@ -31037,7 +31037,7 @@
     "neighbourhoods": "Silver Hill | Bradbury Heights | Auth Village | Hillcrest Heights | Forestville Park | Windsor Crossing | Suitland Manor | Dupont Heights | Swann Hill | Auth Village West.",
     "zipCodes": "20746",
     "address": "4520 SUITLAND RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "spring-gap-md": {
     "name": "Spring Gap",
@@ -31134,7 +31134,7 @@
     "neighbourhoods": "Spring Gap | Blairs Valley | Oldtown | Orleans Cross Roads | Patterson Creek | Pearre | Rawlings | Ridgeley",
     "zipCodes": "21560",
     "address": "13400 OLDTOWN RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "spencerville-md": {
     "name": "Spencerville",
@@ -31231,7 +31231,7 @@
     "neighbourhoods": "Olney | Ashton | Sandy Spring | Cloverly | Norbeck | Good Hope | Colesville | Ednor | Sunshine | Brighton | Etchison | Spencerville Forest | Haviland Mill | Tanglewood | Snowdens Mill",
     "zipCodes": "20868",
     "address": "2323 SPENCERVILLE RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "street-md": {
     "name": "Street",
@@ -31328,7 +31328,7 @@
     "neighbourhoods": "Piney Hill | Glenwood | Fawn Grove | Norrisville | White Hall | Pylesville | Upper Crossroads | Madonna | Laurel Brook | Graceton | Rocks | Street | Forest Hill | Fallston",
     "zipCodes": "21154",
     "address": "708 HIGHLAND RD REAR, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "stevensville-md": {
     "name": "Stevensville",
@@ -31425,7 +31425,7 @@
     "neighbourhoods": "Kent Island Estates | Cloverfields | Romancoke | Matapeake | Tower Gardens | Tower Gardens Estates | Bay City | Bay City Estates",
     "zipCodes": "21666",
     "address": "366 THOMPSON CREEK MALL, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "sudlersville-md": {
     "name": "Sudlersville",
@@ -31522,7 +31522,7 @@
     "neighbourhoods": "Browntown | Toddville | Crumpton | Church Hill | Ingleside | Price | Melitota | Worton | Lynch | Kennedyville | Butlertown | Georgetown | Rock Hall | Chestertown",
     "zipCodes": "21668",
     "address": "117 S CHURCH ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "swanton-md": {
     "name": "Swanton",
@@ -31619,7 +31619,7 @@
     "neighbourhoods": "North Glade | Deer Park | Blooming Rose | Altamont | Thayerville | Oakland | McComas Beach | Red House | Swanton Village | Loch Lynn Heights",
     "zipCodes": "21561",
     "address": "3320 SWANTON RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "taylors-island-md": {
     "name": "Taylors Island",
@@ -31716,7 +31716,7 @@
     "neighbourhoods": "South Marsh | Church Creek | Fishing Creek | Boston | Taylors Island | Cornersville | Toddville | Madison | Andrews | Smithville",
     "zipCodes": "21669",
     "address": "517 TAYLORS ISLAND RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "temple-hills-md": {
     "name": "Temple Hills",
@@ -31813,7 +31813,7 @@
     "neighbourhoods": "Woodberry | Marlow Heights | Oxon Run Hills | Suitland | Silver Hill | Glassmanor | Hillcrest Heights | Camp Springs | Clinton | Forest Heights",
     "zipCodes": "20748",
     "address": "4806 SAINT BARNABAS RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "takoma-park-md": {
     "name": "Takoma Park",
@@ -31910,7 +31910,7 @@
     "neighbourhoods": "Long Branch | Pinecrest | Carroll Avenue | Takoma Junction | North Takoma Park | New Hampshire Gardens | East Silver Spring | Sligo Park Hills | Victory Tower",
     "zipCodes": "20912",
     "address": "6909 LAUREL AVE, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "sykesville-md": {
     "name": "Sykesville",
@@ -32007,7 +32007,7 @@
     "neighbourhoods": "Springfield | Eldersburg | Piney Ridge | Gaither | Sykesville | Freedom | Oklahoma | Carrolltowne Forest | Linton Springs | Carroll Square | Bennett Run | Carroll Fields | Obrecht Road | Norwood Acres",
     "zipCodes": "21784",
     "address": "1363 PROGRESS WAY, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "taneytown-md": {
     "name": "Taneytown",
@@ -32104,7 +32104,7 @@
     "neighbourhoods": "Mayberry | Roberts Mill | Carroll Vista | Baust Church | Taneytown | Trevanion Terrace | Fairground Village | Mayberry Village | Runnymede | Middleburg | Harney | Keysville | Frizzellburg",
     "zipCodes": "21787",
     "address": "13 MIDDLE ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "thurmont-md": {
     "name": "Thurmont",
@@ -32201,7 +32201,7 @@
     "neighbourhoods": "Rosemont | Thurmont Heights | Gateway | Moser Road | Strafford | Jermae Estates | Twin Ridge | Cozy Village | Meadowview | Brookfield | Catoctin Heights",
     "zipCodes": "21788",
     "address": "110 WATER ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "towson-md": {
     "name": "Towson",
@@ -32298,7 +32298,7 @@
     "neighbourhoods": "Anneslie | Wiltondale | Stoneleigh | Greenbrier | West Towson | Towson Manor Village | Loch Hill | Rodgers Forge | Knollwood-Donnybrook | Campus Hills | Ridgeleigh | Aigburth | Southland Hills",
     "zipCodes": "21204 | 21285 | 21286",
     "address": "825 DULANEY VALLEY RD OFC, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "tracys-landing-md": {
     "name": "Tracys Landing",
@@ -32395,7 +32395,7 @@
     "neighbourhoods": "Franklin Manor | Snug Harbor | Calvert Beach | Deale Beach | Owings Beach | Lower Pindell | Millersville | Beverly Beach",
     "zipCodes": "20779",
     "address": "5889 SOLOMONS ISLAND RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "templeville-md": {
     "name": "Templeville",
@@ -32492,7 +32492,7 @@
     "neighbourhoods": "Central | North | South | East | West | Main Street | Park Avenue | Maple Avenue | Church Street | School Road",
     "zipCodes": "21670",
     "address": "3711 BARCLAY RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "tilghman-md": {
     "name": "Tilghman",
@@ -32589,7 +32589,7 @@
     "neighbourhoods": "Bay Hundred | Bozman | Claiborne | Fairbank | Neavitt | Royal Oak | Sherwood | Tilghman Island | Tilghman-on-Chesapeake",
     "zipCodes": "21671",
     "address": "5806 TILGHMAN ISLAND RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "trappe-md": {
     "name": "Trappe",
@@ -32686,7 +32686,7 @@
     "neighbourhoods": "Sylvan Acres | Trappe | Elberta | Poplar Neck | Old Trappe | Oakview | Porters Corner | Easton Club | Old Chapel | Windy Way | Easton Village | Northwoods | Canterbury | Brookewood | Dixon Estates",
     "zipCodes": "21673",
     "address": "29381 GREENFIELD AVE, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "union-bridge-md": {
     "name": "Union Bridge",
@@ -32783,7 +32783,7 @@
     "neighbourhoods": "Union Bridge Village | Baust Church Road | Blacksmith Shop Road | Bowersox Road | Bullfrog Road | Carrs Mill Road | Coe Drive | Coplin Road | Cowman Road | Creagerstown Road | Fairview Avenue | Fountain School Road | Frazer Avenue | Good Intent Road.",
     "zipCodes": "21791",
     "address": "111 PENROSE ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "tyaskin-md": {
     "name": "Tyaskin",
@@ -32880,7 +32880,7 @@
     "neighbourhoods": "Pemberton Manor | Tyaskin | Wetipquin",
     "zipCodes": "21865",
     "address": "4693 TYASKIN RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "tylerton-md": {
     "name": "Tylerton",
@@ -32977,7 +32977,7 @@
     "neighbourhoods": "Smith Island | Ewell | Rhodes Point | Tylerton | Drum Point | Oysterback | Swan Point | Sheep Pen Gut | Lost City",
     "zipCodes": "21866",
     "address": "3071 UNION CHURCH RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "upper-fairmount-md": {
     "name": "Upper Fairmount",
@@ -33074,7 +33074,7 @@
     "neighbourhoods": "Ellicott City | Catonsville | Arbutus | Oella | Paradise | Woodlawn | Ilchester | Windsor Mill",
     "zipCodes": "21867",
     "address": "27741 FAIRMOUNT RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "waldorf-md": {
     "name": "Waldorf",
@@ -33171,7 +33171,7 @@
     "neighbourhoods": "St. Charles | Pinefield | Dorchester | Bannister | Berry Road | Acton Village | Carrington | Autumn Hills | White Oak Village | Lancaster | Waldorf Station | Fieldside | Wakefield | Morsetown",
     "zipCodes": "20602 | 20603",
     "address": "110 PAUL MELLON CT, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "upper-falls-md": {
     "name": "Upper Falls",
@@ -33268,7 +33268,7 @@
     "neighbourhoods": "Cedarcroft | Lake Walker | Richnor Springs | Lake Evesham | Hillendale | Chinquapin Park | Ramblewood | Charles Village | Old Goucher | Better Waverly | Ednor Gardens-Lakeside | Wilson Park | Original Northwood | Woodbourne-McCabe",
     "zipCodes": "21156",
     "address": "7755 BRADSHAW RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "upperco-md": {
     "name": "Upperco",
@@ -33365,7 +33365,7 @@
     "neighbourhoods": "Upperco Village | Boring | Fowblesburg | Emory | Glenville | Millers | Sparks | Butler | Glyndon | Worthington Valley | Greenmount | Blackrock | Parkton | Whitehouse",
     "zipCodes": "21155",
     "address": "5420 ARCADIA AVE, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "vienna-md": {
     "name": "Vienna",
@@ -33462,7 +33462,7 @@
     "neighbourhoods": "Oakland | Clarksville | Toddville | Rhodes Point | Church Creek | Taylors Island | Lakesville | Vienna | Rhodesdale | East New Market",
     "zipCodes": "21869",
     "address": "121 MARKET ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "upper-marlboro-md": {
     "name": "Upper Marlboro",
@@ -33559,7 +33559,7 @@
     "neighbourhoods": "Kettering | Marlton | Brock Hall | Queen Anne | Upper Marlboro | Croom | Largo | Marlboro Meadows | Marlboro Village | Westphalia | Perrywood | Brandywine Village | Forestville | Mitchellville",
     "zipCodes": "20772 | 20774",
     "address": "9801 APOLLO DR, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "walkersville-md": {
     "name": "Walkersville",
@@ -33656,7 +33656,7 @@
     "neighbourhoods": "Glade Village | Discovery | Sun Meadow | Sun Meadow II | Sun Meadow III | Sun Meadow IV | Deerfield | Glade Manor | Glade Towne | Sun Meadow I | Deerfield Estates | Sun Meadow V | Sun Meadow VI",
     "zipCodes": "21793",
     "address": "7 E FREDERICK ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "warwick-md": {
     "name": "Warwick",
@@ -33753,7 +33753,7 @@
     "neighbourhoods": "Brookfield | Cedar Grove | Greenwood | Hillcrest | Lakeview | Maplewood | Oakdale | Pinehurst | Riverwalk | Sunnyside.",
     "zipCodes": "21912",
     "address": "77 MAIN ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "washington-grove-md": {
     "name": "Washington Grove",
@@ -33850,7 +33850,7 @@
     "neighbourhoods": "Brown Street | Chestnut Road | Maple Avenue | Ridge Road | Oak Drive | Hickory Lane | Pine Circle | Spruce Court | Elm Street | Willow Way",
     "zipCodes": "20880",
     "address": "111 WASHINGTON GROVE LN, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "welcome-md": {
     "name": "Welcome",
@@ -33947,7 +33947,7 @@
     "neighbourhoods": "Northwood | St. Charles | Bannister | Brookwood | Longmead | Rosaryville | Nottingham | Mattawoman Village | Brandywine Village | Surratts Village | Cedarville | Cedarville Estates | Brandywine Crossing | Ashleigh Park",
     "zipCodes": "20693",
     "address": "6204 WELCOME RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "valley-lee-md": {
     "name": "Valley Lee",
@@ -34044,7 +34044,7 @@
     "neighbourhoods": "Valley Lee | St. George Island | Tall Timbers | Piney Point | St. George's Island | St. Inigoes | Park Hall | Drayden | Ridge | St. Mary's City.",
     "zipCodes": "20692",
     "address": "45150 BLAKE CREEK RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "west-friendship-md": {
     "name": "West Friendship",
@@ -34141,7 +34141,7 @@
     "neighbourhoods": "Fox Valley | Pfefferkorn | Highland | Morgan | Daisy | Rolling | Daniels Mill Overlook | Frederick | West Friendship | Mount Airy | Glenwood | Woodbine | Eldersburg | Lisbon",
     "zipCodes": "21794",
     "address": "12800 STATE ROUTE 144, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "white-hall-md": {
     "name": "White Hall",
@@ -34238,7 +34238,7 @@
     "neighbourhoods": "Foxcatcher | Greenfield | Fox Hill Farms | Foxwood | Foxborough | Fox Creek | Fox Meadows | Fox Hill | Fox Haven | Fox Ridge | Fox Run | Fox Hunt Estates | Fox Valley | Fox Creek Estates",
     "zipCodes": "21161",
     "address": "1415 WISEBURG RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "westminster-md": {
     "name": "Westminster",
@@ -34335,7 +34335,7 @@
     "neighbourhoods": "Westminster City Center | Wakefield | Carroll View | Cranberry Station | The Greens | Furnace Hills | Stoneridge Overlook | Whispering Meadows | Eagleview Estates | Westmoount | Sullivan Heights | Buckingham View | Meadow Creek | Westiminster Highlands",
     "zipCodes": "21157",
     "address": "345 WOODWARD RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "white-marsh-md": {
     "name": "White Marsh",
@@ -34432,7 +34432,7 @@
     "neighbourhoods": "Perry Hall | Nottingham | Middle River | Kingsville | Bowleys Quarters | Joppa | Rosedale | Carney | Overlea",
     "zipCodes": "21162",
     "address": "5422 EBENEZER RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "westover-md": {
     "name": "Westover",
@@ -34529,7 +34529,7 @@
     "neighbourhoods": "Bay View | Waterview | Riverside | Westmoreland | Pine Knoll | Sunny Ridge | Harbor View | Cedar Point | Quail Hollow | Somerset | Green Acres | Oakwood | Bay Haven | Riverside Heights",
     "zipCodes": "21871",
     "address": "8930 CRISFIELD HWY, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "whaleyville-md": {
     "name": "Whaleyville",
@@ -34626,7 +34626,7 @@
     "neighbourhoods": "WHALEYVILLE | MD.",
     "zipCodes": "21872",
     "address": "11721 SHEPPARDS CROSSING RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "whiteford-md": {
     "name": "Whiteford",
@@ -34723,7 +34723,7 @@
     "neighbourhoods": "Harkins | Graceton | Madonna | Street",
     "zipCodes": "21160",
     "address": "1508 MAIN ST STE 4, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "willards-md": {
     "name": "Willards",
@@ -34820,7 +34820,7 @@
     "neighbourhoods": "Willards Village | Pittsville | Powellville | Parsonsburg | Whaleyville | Newark | Gumboro | Selbyville | Bishopville | Showell",
     "zipCodes": "21874",
     "address": "36311 RICHLAND RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "wittman-md": {
     "name": "Wittman",
@@ -34917,7 +34917,7 @@
     "neighbourhoods": "Wittman Village | Bellevue | Bozman | Tilghman Island | Neavitt | Royal Oak | Claiborne | Sherwood | Tilghman | Oxford",
     "zipCodes": "21676",
     "address": "22611 POT PIE RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "woodbine-md": {
     "name": "Woodbine",
@@ -35014,7 +35014,7 @@
     "neighbourhoods": "Cooks Lane | Hoods Mill | Jennings Chapel | Long Corner | Lisbon | Morgan | Sand Hill | Winfield",
     "zipCodes": "21797",
     "address": "7623 WOODBINE RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "williamsport-md": {
     "name": "Williamsport",
@@ -35111,7 +35111,7 @@
     "neighbourhoods": "Potomac Heights | Falling Waters | Halfway | Van Lear | Tammany Manor | Clover Heights | St. James Village | Hammondsville | Snug Harbor | Downsville",
     "zipCodes": "21795",
     "address": "28 W SALISBURY ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "woodstock-md": {
     "name": "Woodstock",
@@ -35208,7 +35208,7 @@
     "neighbourhoods": "Long Corner | Waverly Woods | Woodstock | Patapsco | Marriottsville | West Friendship | Glenelg | Daisy | Ellicott City | Daniels | Henryton | Granite | Sykesville | Finksburg",
     "zipCodes": "21163",
     "address": "10805 BIRMINGHAM WAY STE 25, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "woodsboro-md": {
     "name": "Woodsboro",
@@ -35305,7 +35305,7 @@
     "neighbourhoods": "Hillsborough | Copperfield | Autumn Ridge | Woodmoor | Northgate | Spring Garden | Maplewood | Crestview | Timberlake | Whispering Pines.",
     "zipCodes": "21798",
     "address": "602 S MAIN ST, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "windsor-mill-md": {
     "name": "Windsor Mill",
@@ -35402,7 +35402,7 @@
     "neighbourhoods": "Powder Mill Park | Windsor Terrace | Liberty Road | Belmont | Gwynn Oak | Rolling Road | Liberty Knolls | Belmont Park | Candlewood | Rockdale | Timber Grove | Milford Mill | Dogwood Hill | Chadwick | Hebbville",
     "zipCodes": "21244",
     "address": "2513 N ROLLING RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "woolford-md": {
     "name": "Woolford",
@@ -35499,7 +35499,7 @@
     "neighbourhoods": "North End | South End | East Side | West Side | Hilltop | Lakeview | Riverside | Maplewood | Pinehurst | Oakdale | Sunset Park | Sunnyvale",
     "zipCodes": "21677",
     "address": "1614 TAYLORS ISLAND RD STE 1, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "wye-mills-md": {
     "name": "Wye Mills",
@@ -35596,7 +35596,7 @@
     "neighbourhoods": "Bridges at Wye | Wye Mills Village | Wye Heights | Wye Mills Estates | Wye Island Estates | Wye Harbor | Wye Landing | Wye Oak | Wye Mills Meadows | Wye Knots Village",
     "zipCodes": "21679",
     "address": "14278 OLD WYE MILLS RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   },
   "worton-md": {
     "name": "Worton",
@@ -35693,6 +35693,6 @@
     "neighbourhoods": "Hammonton | Chestertown | Still Pond | Lynch | Pomona | Eastern Neck | Locust Grove | Millington | Kennedyville | Worton | Galena | Georgetown",
     "zipCodes": "21678",
     "address": "10802 WORTON RD, United States",
-    "publishedAt": "2025-10-05  2025-10-06 2025-10-09"
+    "publishedAt": "2025-10-05"
   }
 }
